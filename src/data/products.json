@@ -1,0 +1,5186 @@
+[
+  {
+    "id": "CT-AL-23-F",
+    "name": "Budget Conti Suit",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "190g Polycotton Twill Suit: Monza Jacket & Elastic Back Pants",
+    "image": ""
+  },
+  {
+    "id": "ALT-1101",
+    "name": "Trade Polycotton Conti Suit",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "190g Polycotton Twill Suit (Jacket-based sizing): Monza Pocket Jacket w/ concealed zip + Elastic-back 4-pocket Pants",
+    "image": ""
+  },
+  {
+    "id": "ALT-1105",
+    "name": "Trade Polycotton Conti Suit - Reflective Arms & Legs - Yellow Taped",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "190g Polycotton Twill SADC Suit (SABS Approved): Monza Jacket & Elastic-back Pants with 50mm Silver/Yellow Reflective Tape",
+    "image": ""
+  },
+  {
+    "id": "ALT-11010",
+    "name": "Trade Polycotton Conti Suit - Reflective Arms & Legs - Yellow Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "190g Polycotton Twill SADC Suit: Monza Jacket & Elastic-back Pants with 50mm Yellow/Silver Reflective Tape",
+    "image": ""
+  },
+  {
+    "id": "ALT-11011",
+    "name": "Trade Polycotton Conti Suit - Reflective Arms & Legs - Orange Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "190g Polycotton Twill Suit (Jacket Sized): Monza Jacket & Elastic-back Pants with 50mm Orange/Silver Reflective Tape",
+    "image": ""
+  },
+  {
+    "id": "ALT-1108",
+    "name": "Safety Polycotton Boiler Suit",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "190g Polycotton Twill Suit: Open Neck Jacket with Metal Buttons, Chest/Side Pockets & Bar-Tacked Stress Points",
+    "image": ""
+  },
+  {
+    "id": "ALT-11012",
+    "name": "Trade Polycotton Conti Suit - Reflective Arms, Legs & Back - Yellow Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "190g Polycotton Twill Suit (Jacket Sized): Monza Jacket & Elastic-back Pants with 50mm Yellow/Silver Reflective Tape (Arms, Legs, Back)",
+    "image": ""
+  },
+  {
+    "id": "ALT-11013",
+    "name": "Trade Polycotton Conti - Suit Reflective Arms, Legs & Back - Orange Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "190g Polycotton Twill Suit (Jacket Sized): Monza Jacket & Elastic-back Pants with 50mm Orange/Silver Reflective Tape (Arms, Legs, Back)",
+    "image": ""
+  },
+  {
+    "id": "ALT-1106",
+    "name": "Acid Resistant Polycotton Conti Suit",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "190g Acid-Resistant Polycotton Suit (SABS): Monza Jacket & Triple-Stitched Elastic-back Pants",
+    "image": ""
+  },
+  {
+    "id": "ALT-11081",
+    "name": "Safety Polycotton Boiler Suit - Reflective Arms & Legs - Yellow Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "190g Polycotton Twill Suit (Jacket Sized): Monza Jacket & Elastic-back Pants with 3-Pocket Design Yellow Tape",
+    "image": ""
+  },
+  {
+    "id": "ALT-11082",
+    "name": "Safety Polycotton Boiler Suit - Reflective Arms & Legs - Orange Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "90g Polycotton Twill Suit (Jacket Sized): Monza Jacket & Elastic-back Pants with 3-Pocket Design Orange Tape",
+    "image": ""
+  },
+  {
+    "id": "ALT-11083",
+    "name": "Safety Polycotton Boiler Suit - Reflective Arms Legs & Back - Yellow Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "190g Polycotton Twill Suit (Jacket Sized): Monza Jacket & Elastic-back Pants with 3-Pocket Design",
+    "image": ""
+  },
+  {
+    "id": "ALT-11084",
+    "name": "Safety Polycotton Boiler Suit - Reflective Arms Legs & Back - Orange Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "190g Polycotton Twill Suit (Jacket Sized): Monza Jacket & Elastic-back Pants with 3-Pocket Design",
+    "image": ""
+  },
+  {
+    "id": "CT-AL-22-F",
+    "name": "Premium Polycotton Conti Suit",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "190g Polycotton Twill Suit: Triple-Stitched Jacket & Pants with YKK Zips, V-Flap Chest Pocket & Bar-Tacked Stress Points",
+    "image": ""
+  },
+  {
+    "id": "ALT-11061",
+    "name": "Acid Resistant Polycotton Conti Suit - Reflective Arm & Legs - Yellow Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "190g Acid-Resistant Polycotton Suit: Monza Jacket & Triple-Stitched Pants with 50mm Yellow/Silver Reflective Tape",
+    "image": ""
+  },
+  {
+    "id": "ALT-11062",
+    "name": "Acid Resistant Polycotton Conti Suit - Reflective Arm & Legs - Orange Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "190g Acid-Resistant Polycotton Suit: Monza Jacket & Triple-Stitched Pants with 50mm Orange/Silver Reflective Tape",
+    "image": ""
+  },
+  {
+    "id": "ALT-1104",
+    "name": "Vintage 100% Cotton Denim Conti Suit",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "10oz 100% Cotton Denim Suit (SABS): Monza Jacket & Elastic-back Pants with 3-Pocket Design",
+    "image": ""
+  },
+  {
+    "id": "ALT-11063",
+    "name": "Acid Resistant Polycotton Conti Suit - Reflective Arm, Legs & Back - Yellow Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "190g Acid-Resistant Polycotton Suit: Monza Jacket & Triple-Stitched Pants with 50mm Yellow/Silver Reflective Tape (Arms, Legs, Back)",
+    "image": ""
+  },
+  {
+    "id": "ALT-11064",
+    "name": "Acid Resistant Polycotton Conti Suit - Reflective Arm, Legs & Back - Orange Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "190g Acid-Resistant Polycotton Suit: Monza Jacket & Triple-Stitched Pants with 50mm Orange/Silver Reflective Tape (Arms, Legs, Back)",
+    "image": ""
+  },
+  {
+    "id": "ALT-1103",
+    "name": "Technician 100% Cotton Conti Suit",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "200g 100% Cotton Twill Suit (SABS): Monza Jacket & Elastic-back Pants with 3-Pocket Design",
+    "image": ""
+  },
+  {
+    "id": "ALT-11041",
+    "name": "Vintage 100% Cotton Denim Conti Suit - Reflective Arms & Legs - Yellow Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "10oz 100% Cotton Denim Suit: Monza Jacket & Elastic-back Pants with 50mm Yellow/Silver Reflective Tape",
+    "image": ""
+  },
+  {
+    "id": "ALT-11042",
+    "name": "Vintage 100% Cotton Denim Conti Suit - Reflective Arms & Legs - Orange Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "10oz 100% Cotton Denim Suit: Monza Jacket & Elastic-back Pants with 50mm Orange/Silver Reflective Tape",
+    "image": ""
+  },
+  {
+    "id": "ALT-11043",
+    "name": "Vintage 100% Cotton Denim Conti Suit - Reflective Arms, Legs & Back - Yellow Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "10oz 100% Cotton Denim Suit: Monza Jacket & Elastic-back Pants with 50mm Yellow/Silver Reflective Tape (Arms, Legs, Back)",
+    "image": ""
+  },
+  {
+    "id": "ALT-11044",
+    "name": "Vintage 100% Cotton Denim Conti Suit - Reflective Arms, Legs & Back - Orange Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "10oz 100% Cotton Denim Suit: Monza Jacket & Elastic-back Pants with 50mm Orange/Silver Reflective Tape (Arms, Legs, Back)",
+    "image": ""
+  },
+  {
+    "id": "ALT-11031",
+    "name": "Technician 100% Cotton Conti Suit - Reflective Arms & Legs - Yellow Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "200g 100% Cotton Twill Suit: Monza Jacket & Elastic-back Pants with 50mm Yellow/Silver Reflective Tape (Arms & Legs)",
+    "image": ""
+  },
+  {
+    "id": "ALT-11032",
+    "name": "Technician 100% Cotton Conti Suit - Reflective Arms & Legs - Orange Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "200g 100% Cotton Twill Suit: Monza Jacket & Elastic-back Pants with 50mm Orange/Silver Reflective Tape (Arms & Legs)",
+    "image": ""
+  },
+  {
+    "id": "ALT-11033",
+    "name": "Technician 100% Cotton Conti Suit - Reflective Arms, Legs & Back - Yellow Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "200g 100% Cotton Twill Suit: Monza Jacket & Elastic-back Pants with 50mm Yellow/Silver Reflective Tape (Arms, Legs, Back)",
+    "image": ""
+  },
+  {
+    "id": "ALT-11034",
+    "name": "Technician 100% Cotton Conti Suit - Reflective Arms, Legs & Back - Orange Tape",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "200g 100% Cotton Twill Suit: Monza Jacket & Elastic-back Pants with 50mm Orange/Silver Reflective Tape (Arms, Legs, Back)",
+    "image": ""
+  },
+  {
+    "id": "ALT-1120",
+    "name": "D59 Flame Retardant 100% Cotton Conti Suit",
+    "category": "conti",
+    "supplier": "AMROD",
+    "desc": "200g D59 Flame Retardant Cotton Twill Suit (SABS): Monza Jacket & Elastic-back Pants with 3-Pocket Design",
+    "image": ""
+  },
+  {
+    "id": "ALT-TRD",
+    "name": "Unisex Trendi Canvas Sneaker",
+    "category": "footwear",
+    "supplier": "AMROD",
+    "desc": "Cotton/Polyester Canvas Sneakers: Twin-Needle Stitched Upper with Rubber Sole, Padded Insoles & Metallic Eyelets",
+    "image": ""
+  },
+  {
+    "id": "ALT-RTR",
+    "name": "Unisex Retro High Top Canvas Sneaker",
+    "category": "footwear",
+    "supplier": "AMROD",
+    "desc": "High Top Cotton/Polyester Canvas Sneakers: Twin-Needle Stitched Upper with Rubber Sole, Padded Insoles & Metallic Eyelets",
+    "image": ""
+  },
+  {
+    "id": "ALT-1903",
+    "name": "Mega Safety Shoe Steel Toe Cap",
+    "category": "footwear",
+    "supplier": "AMROD",
+    "desc": "genuine split leather upper • sole: dual-density PU,CE EN ISO 20345 approved • steel toe cap with impact protection of 200 joules • lightweight and flexible,heat resistant to 90 degrees celsius • oil resistant • acid resistant • slip resistant, shock absorption heel • removable inner soles • wider fit for added comfort    NRCS Approved",
+    "image": ""
+  },
+  {
+    "id": "ALT-1904",
+    "name": "Mega Safety Boot Steel Toe Cap",
+    "category": "footwear",
+    "supplier": "AMROD",
+    "desc": "genuine split leather upper • sole: dual density PU\nCE EN ISO 20345 approved • steel toe cap with impact protection of 200 joules • lightweight and flexible\nheat resistant to 90 degrees celsius • oil resistant • acid resistant • slip resistant\nshock absorption heel • removable inner soles • wider fit for added comfort\nCE certified\nNRCS approved",
+    "image": ""
+  },
+  {
+    "id": "FT-AL-7-F",
+    "name": "Force Combat Boot",
+    "category": "footwear",
+    "supplier": "AMROD",
+    "desc": "upper: breathable canvas • sole: polyurethane, lace-up • non steel toe cap",
+    "image": ""
+  },
+  {
+    "id": "ALT-1905",
+    "name": "Craftsman Chelsea Boot Steel Toe Cap",
+    "category": "footwear",
+    "supplier": "AMROD",
+    "desc": "genuine split leather upper • sole: dual density PU, CE EN ISO 20345 approved • steel toe cap with impact protection of 200 joules, easy pull-on webbed loop •  elasticated sides • heat resistant to 90 degrees celsius oil resistant • acid resistant • slip resistant • shock absorption heel • wider fit for added comfort, NRCS Approved",
+    "image": ""
+  },
+  {
+    "id": "ALT-2003",
+    "name": "Altitude Yield Hi-Viz Reflective Bandana",
+    "category": "headwear",
+    "supplier": "AMROD",
+    "desc": "100% polyester, silver reflective heat-pressed tape detail ,day/night visibility",
+    "image": ""
+  },
+  {
+    "id": "ALT-2000",
+    "name": "Altitude Signal Hi-Viz Reflective Cap",
+    "category": "headwear",
+    "supplier": "AMROD",
+    "desc": "100% polyester  6-panel structured peak • 6 rows of stitching • 6 embroidered contrast eyelets silver reflective binding detail • self-fabric velcro closure day/night visibility",
+    "image": ""
+  },
+  {
+    "id": "ALT-2002",
+    "name": "Beacon Hi-Viz Beanie",
+    "category": "headwear",
+    "supplier": "AMROD",
+    "desc": "100% acrylic acrylic rib knit reflective day/night visibility​​​​​",
+    "image": ""
+  },
+  {
+    "id": "ALT-AVL",
+    "name": "Avallon Chef Beanie",
+    "category": "headwear",
+    "supplier": "AMROD",
+    "desc": "195g/m² , 65% polyester, 35% cotton, expandable elastic back",
+    "image": ""
+  },
+  {
+    "id": "ALT-NMD",
+    "name": "Normandy Bandana",
+    "category": "headwear",
+    "supplier": "AMROD",
+    "desc": "195g/m², 65% polyester, 35% cotton, paneled head wrap, back ties",
+    "image": ""
+  },
+  {
+    "id": "ALT-2001",
+    "name": "Roadside Hi-Viz Reflective Hat",
+    "category": "headwear",
+    "supplier": "AMROD",
+    "desc": "100% polyester, unstructured • contrast cord with adjustable toggle,silver reflective binding detail,day/night visibility",
+    "image": ""
+  },
+  {
+    "id": "BV-AL-5-F",
+    "name": "Hi-Viz Reflective Safety Belt",
+    "category": "hivis",
+    "supplier": "AMROD",
+    "desc": "60% polyester, 40%spandex elastic, adjustable body belt with buckles,15mm reflective tape",
+    "image": ""
+  },
+  {
+    "id": "ALT-1201",
+    "name": "Direction En4 Hi-Viz Reflective Full Zip Vest",
+    "category": "hivis",
+    "supplier": "AMROD",
+    "desc": "120g/m², 100% polyester tricot, full-zip • contrast binding detail • silver 50mm reflective tape detail\nID pouch on left chest • EN4 certified ,day/night visibility",
+    "image": ""
+  },
+  {
+    "id": "ALT-1202",
+    "name": "Airport Hi-Viz Reflective Full Zip Vest",
+    "category": "hivis",
+    "supplier": "AMROD",
+    "desc": "120g/m2, 100% polyester Airtex mesh, full-zip • contrast binding detail • white 50mm PVC prismatic reflective tape detail, ID pouch on left chest, day/night visibility",
+    "image": ""
+  },
+  {
+    "id": "ALT-1300",
+    "name": "Zone Hi-Viz T-Shirt",
+    "category": "hivis",
+    "supplier": "AMROD",
+    "desc": "160g/m2 100% polyester birdseye short sleeve • self-fabric crew neck  day/night visibility  easy care",
+    "image": ""
+  },
+  {
+    "id": "ALT-1400",
+    "name": "Sector Hi-Viz Golf Shirt",
+    "category": "hivis",
+    "supplier": "AMROD",
+    "desc": "160g/m2 100% polyester birdseye, knitted collar, three-button placket",
+    "image": ""
+  },
+  {
+    "id": "ALT-1401",
+    "name": "Inspector Two-Tone Hi-Viz Golf Shirt",
+    "category": "hivis",
+    "supplier": "AMROD",
+    "desc": "160g/m2, 100% polyester birdseye, contrast knitted collar ,two-tone front panel, solid colour back panel, sewn on pocket",
+    "image": ""
+  },
+  {
+    "id": "ALT-1301",
+    "name": "Construction Hi-Viz Reflective T-Shirt",
+    "category": "hivis",
+    "supplier": "AMROD",
+    "desc": "160g/m2 100% polyester birdseye,short sleeve • self-fabric crew neck • silver 50mm reflective heat-pressed tape,detail day/night visibility easy care",
+    "image": ""
+  },
+  {
+    "id": "ALT-1402",
+    "name": "Surveyor Two-Tone Hi-Viz Reflective Golf Shirt",
+    "category": "hivis",
+    "supplier": "AMROD",
+    "desc": "160g/m2\n100% polyester birdseye\ncontrast knitted collar • two-tone front and back panel • silver 50mm reflective tape detail \nday/night visibility\neasy-care",
+    "image": ""
+  },
+  {
+    "id": "GS-AL-293-A",
+    "name": "Long Sleeve Surveyor Two-Tone Hi-Viz Golf Shirt",
+    "category": "hivis",
+    "supplier": "AMROD",
+    "desc": "160g/m2\n100% polyester birdseye\ncontrast knitted collar\ntwo-tone front and back panel\nsilver 50mm reflective tape detail",
+    "image": ""
+  },
+  {
+    "id": "ALT-1109",
+    "name": "Traffic Premium Two-Tone Hi-Viz Reflective Jacket",
+    "category": "hivis",
+    "supplier": "AMROD",
+    "desc": "235g/m2\n65% polyester, 35% cotton twill • contrast panels: 50% cotton, 50% polyester interwoven fabric\nfront and back contrast panels • open neck collar • front yoke panel • concealed YKK zip with single press stud\nchest pocket features V-flap with press stud closure and pen pocket\ntwo front pockets • silver 50mm reflective tape detail • triple needle top stitching • bar tacks at stress points\nlocally manufactured\nday/night visibility\nSABS approved, click here to view certification",
+    "image": ""
+  },
+  {
+    "id": "ALT-1121",
+    "name": "Supervisor Premium Cargo Reflective Pants",
+    "category": "hivis",
+    "supplier": "AMROD",
+    "desc": "240g/m2\n100% J54 cotton twill\nYKK zip • self-fabric waist with seven belt loops • cargo pockets with velcro closure flap\nside entry front pockets • back pockets with velcro closure flap • back darts\nsilver 50mm reflective tape detail • top stitching detail • bar tacks at stress points\nLocally Manufactured\nYKK Zip\nSABS approved,",
+    "image": ""
+  },
+  {
+    "id": "ALT-1703",
+    "name": "Metro Two-Tone Hi-Viz Reflective Zip-Off Jacket",
+    "category": "hivis",
+    "supplier": "AMROD",
+    "desc": "150g/m2\n100% polyester tricot with Airtex mesh\nlightweight mixed fabric jacket • zip-off sleeves • contrast full zip\nID pouch on left chest • elasticated cuffs\nelasticated waistband with front press stud closure • shoulder epaulettes with press studs\nsilver 50mm reflective tape detail\nday/night visibility",
+    "image": ""
+  },
+  {
+    "id": "ALT-1500",
+    "name": "Access Vented Two-Tone Reflective Work Shirt",
+    "category": "hivis",
+    "supplier": "AMROD",
+    "desc": "145g/m2\n100% cotton\ntwo chest pockets with flaps • vent under arm • garment features back vent below yoke with 3 bar tacks\nsilver 50mm reflective tape detail • double-needle top stitching detail \nLocally Manufactured\nUV Protection\nSABS approved,",
+    "image": ""
+  },
+  {
+    "id": "WJ-AL-5-F",
+    "name": "Defender Hi-Viz Jacket",
+    "category": "hivis",
+    "supplier": "AMROD",
+    "desc": "100% polyester\ntwo-tone jacket with silver 25mm reflective tape detail\nstorm flap with chunky zip and press studs\nwater resistant\nwelted pockets with chunky zips and zip pullers\nelasticated cuffs with adjustable velcro tab\ninner pocket\ndetachable hood with adjustable toggles",
+    "image": ""
+  },
+  {
+    "id": "KNS-NB",
+    "name": "KONO Polycotton Conti Suit Navy Blue/Red/White/Grey/Black - price rise from size 46 (MOQ 10 per size)",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "CT-AL-23-F",
+    "name": "Unisex Budget Conti Suit 190g/m2 polycotton twill - ONLY IN ROYAL BLUE - price rise from size 46",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-HYB-RB-S32/44",
+    "name": "DROMEX HYBRID Royal Blue Conti Suit sizes 32 to 50",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-HYBRT-RB-S32/44",
+    "name": "DROMEX HYBRID Royal Blue Conti Suit WITH REFLECTIVE TAPE sizes 32 to 50",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "REFL",
+    "name": "To add reflective tape on arms & legs",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "COLORS 32-44",
+    "name": "Poly Cotton (80/20) Conti Suits Colors (Orange/Green/Red/Grey/Khaki/Black/Navy) - price rise from size 46 (MOQ 10)",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-1101",
+    "name": "Unisex Trade Polycotton Conti Suit Black/Green/Grey/Khaki/Navy/Orange/Red/Royal Blue/White - price rise from size 46",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-CONTIXX-S30/44",
+    "name": "DROMEX Polycotton Conti Suit 80/20 sizes 30-64 Royal Blue/Black/Orange/Grey/Khaki/Navy Blue/White/Emerald Green/Red",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "4014-PC",
+    "name": "Javlin Polycotton Conti Suit SANS 434 Fit Cedar Green/White Yellow 65% Polyester/35% Cotton 245g/m²",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-6535XX-J30/44",
+    "name": "DROMEX 6535 Polycotton SANS 434 Fit Conti Jacket sizes 30-60 (Royal Blue/Navy/Grey/Orange/Black/Emerald Green/Olive Green/Khaki/Red)",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-6535XX-P26/40",
+    "name": "DROMEX 6535 Polycotton SANS 434 Fit Conti Pants sizes 26-56 (Royal Blue/Navy/Grey/Orange/Black/Emerald Green/Olive Green/Khaki/Red)",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-1102",
+    "name": "Trade Polycotton Pants (Black/Navy/Royal Blue) - price rise from size 46",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "CS001",
+    "name": "Two Tone Contisuit Khaki/Bottle Green or Khaki/Navy Blue MOQ 10 - price rise from size 46",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-6535XX-2TJ30/44",
+    "name": "DROMEX Olive Green & Khaki or Navy Blue & Grey Two Tone 6535 SANS 434 Conti Jacket sizes 30-60",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-11141",
+    "name": "Technician 100% Cotton Jacket - Reflective Arms & Legs - Yellow Tape Navy/Royal Blue - price rise from XL",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-11151",
+    "name": "Artisan Premium 100% Cotton Pants - Reflective Legs - Yellow Tape - price rise from XL",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-11122",
+    "name": "Site Premium Two Tone Polycotton Jacket WITH REFLECTIVE TAPE (orange or yellow) Khaki/Olive or Navy/Grey - price rise from XL",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-11131",
+    "name": "Site Premium Polycotton Pants WITH REFLECTIVE TAPE (orange or yellow) Navy/Olive/Royal Blue - price rise from size 46",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-1109",
+    "name": "Traffic Premium Two Tone Hi Viz Reflective Jacket - price rise from XL",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-1110",
+    "name": "Traffic Premium Two Tone Hi Viz Reflective Pants - price rise from size 46",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "4641-PC",
+    "name": "Hi-Vis Two Tone Conti Suit Bottle Green & Hi-Vis Green",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-D59RT-J30/44",
+    "name": "DROMEX D59 100% Cotton Conti Jacket WITH REFLECTIVE TAPE Royal Blue Size 32-60",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-D59RT-P26/40",
+    "name": "DROMEX D59 100% Cotton Conti Pants WITH REFLECTIVE TAPE Royal Blue Size 32-60",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-J54-ANGXX-J32/44",
+    "name": "DROMEX J54 SABS Anglo Conti Jacket WITH REFLECTIVE sizes 32-64 SANS 434 Royal Blue/Red/Yellow",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-J54-ANGXXP28/40",
+    "name": "DROMEX J54 SABS Anglo Conti Pants WITH REFLECTIVE sizes 32-64 SANS 434 Royal Blue/Red/Yellow",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "CSB REF32-44",
+    "name": "Royal Blue Conti Suits Poly Cotton WITH REF TAPE - price rise from size 46",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-11010",
+    "name": "Unisex Trade Polycotton Conti Suit Reflective Arms & Legs Yellow Tape Black/Green/Grey/Khaki/Navy/Orange/Red/Royal Blue/White - price rise from size 46",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-CONTI-RTXXS30/44",
+    "name": "DROMEX Polycotton Conti Suits with Reflective sizes 30-64 Royal Blue/Black/Orange/Grey/Khaki/Navy Blue/Emerald Green/Red",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-11031",
+    "name": "Technician 100% Cotton Conti Suit - Reflective Arms & Legs - Yellow Tape - price rise from size 46",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-6535-XX-RTJ30/44",
+    "name": "DROMEX 6535 Polycotton SANS 434 Fit Conti Jacket with reflective sizes 30-60",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-6535-XX-RTP26/40",
+    "name": "DROMEX 6535 Polycotton SANS 434 Fit Conti Pants with reflective sizes 26-56",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-1121",
+    "name": "Supervisor Premium Cargo Reflective Pants - price rise from size 46",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "D59AF-J 32-44",
+    "name": "Pioneer D59 Flame/Acid Retardant Jacket SZ32-44 SABS Spec MOQ 10 sets",
+    "category": "workwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "D59AF-T 28-40",
+    "name": "Pioneer D59 Flame/Acid Retardant Trouser SZ28-40 - price rise from size 42 SABS Spec MOQ 10 sets",
+    "category": "workwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-D59FA-J28/44",
+    "name": "DROMEX D59 Navy Blue Flame & Acid JACKET with reflective sizes 28-68 SABS Marked",
+    "category": "workwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-D59FA-P24/40",
+    "name": "DROMEX D59 Navy Blue Flame & Acid PANTS with reflective sizes 24-64 SABS Marked",
+    "category": "workwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DWL-D59FA-JS",
+    "name": "DROMEX LADIES D59 Navy Blue Flame & Acid Jacket",
+    "category": "workwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DWL-D59FA-PS",
+    "name": "DROMEX LADIES PANTS D59 Navy Blue Flame & Acid",
+    "category": "workwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "5078-D59-FR",
+    "name": "New Flame Retardant Conti Jacket SANS 434 Fit",
+    "category": "workwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "5079-D59-FR",
+    "name": "New Flame Retardant Conti Trouser SANS 434 Fit",
+    "category": "workwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "4775T-D59-FA",
+    "name": "Flame Retardant & Acid Resistant SABS Conti Jacket (330gsm)",
+    "category": "workwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "4776T-D59-FA",
+    "name": "Flame Retardant & Acid Resistant SABS Conti Trousers (330gsm)",
+    "category": "workwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-D59FA-O28/44",
+    "name": "DROMEX D59 Navy Blue Flame & Acid OVERALLS with reflective sizes 28-64",
+    "category": "workwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "BSRB",
+    "name": "Boiler Suits Poly Cotton Royal Blue - price rise from size 46 (MOQ 10 per size)",
+    "category": "boiler",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-1108",
+    "name": "Safety Polycotton Boiler Suit Royal Blue OR White - price rise from size 46",
+    "category": "boiler",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-11081",
+    "name": "Safety Polycotton Boiler Suit Reflective Arms & Legs Yellow OR Orange Tape - price rise from size 46",
+    "category": "boiler",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-11083",
+    "name": "Safety Polycotton Boiler Suit Reflective Arms Legs & Back Yellow OR Orange Tape - price rise from size 46",
+    "category": "boiler",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-J54-ANGUBB30/44",
+    "name": "DROMEX J54 SABS Anglo Boiler Suits One Piece Unbleached sizes 30-64",
+    "category": "boiler",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-J54-ANGXXB32/44",
+    "name": "DROMEX J54 SABS Anglo Boiler Suits One Piece RD Red/RB Royal Blue or Orange sizes 32-64",
+    "category": "boiler",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "8671-D59-FR",
+    "name": "D59 Flame Retardant Reflective Boiler Suit SABS D59 310g/m² SABS Fit",
+    "category": "boiler",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "5451-J54",
+    "name": "J54 Reflective Orange Boiler Suit J54 100% Cotton 220g/m² SABS Fit",
+    "category": "boiler",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-D59MXX-O32/44",
+    "name": "DROMEX Colours White/Yellow/Orange D59 100% Cotton Mining Boiler sizes 32-64 with Sasol logo",
+    "category": "boiler",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-ACID-30/44",
+    "name": "DROMEX Poly Cotton Olive Green Conti Suits Acid Resistant sizes 30-64",
+    "category": "workwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "CSA32-44",
+    "name": "Green Acid Resistant Conti Suits - price rise from size 46 (MOQ 10)",
+    "category": "workwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "CS004",
+    "name": "Green Acid Resistant Conti Suits WITH REF TAPE - price rise from size 46 (MOQ 10)",
+    "category": "workwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-11062",
+    "name": "Olive Acid Resistant Polycotton Conti Suit Reflective Arm & Legs Orange/Yellow Tape - price rise from size 46",
+    "category": "workwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-PVACIDRT-J32/44",
+    "name": "DROMEX Poly Viscose Bottle Green Conti Jacket Acid Resistant with Reflective sizes 30-64",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-PVACIDRT-P28/40",
+    "name": "Pants Acid Resistant with Reflective sizes 28-60",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-DENIM-J30/46",
+    "name": "DROMEX Denim Conti Jacket 12oz Indigo Denim CONTI JACKETS 434 Spec sizes 30-64",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-DENIM-P26/42",
+    "name": "DROMEX Denim Conti Pants 12oz Indigo Denim CONTI PANTS 434 Spec sizes 26-60",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-DENIMJEAN-28/40",
+    "name": "DROMEX Denim Jean Pants sizes 28-50",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "CSD32-44",
+    "name": "Budget Denim Conti Suits Navy Blue - price rise from size 46 (MOQ 10)",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "6281-DE",
+    "name": "Heavy Duty Denim Conti Jacket Denim Deluxe 100% Cotton 12oz Stonewashed",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "6282-DE",
+    "name": "Heavy Duty Denim Conti Trousers Denim Deluxe 100% Cotton 12oz Stonewashed",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-11161",
+    "name": "Cast Premium 100% Cotton Denim Jacket WITH REFLECTIVE TAPE (orange or yellow) - price rise from XL",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-11171",
+    "name": "Cast Premium 100% Cotton Denim Pants WITH REFLECTIVE TAPE (orange or yellow) - price rise from size 46",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "CSJ54-32-44",
+    "name": "J54 100% Cotton Conti Suits Royal Blue or Navy - price rise from size 46 (MOQ 10)",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-1114",
+    "name": "Artisan Premium 100% Cotton Jacket Royal Blue or Navy - price rise from size XL",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-1115",
+    "name": "Artisan Premium 100% Cotton Pants - price rise from size 44",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-1103",
+    "name": "Technician 100% Cotton Conti Suit Navy and Royal Blue - price rise from size 46",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-J54XX-J46",
+    "name": "DROMEX J54 Conti Jacket Royal Blue/Navy Blue/Orange/Grey/Emerald Green sizes 30-64",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-J54XX-P26/40",
+    "name": "DROMEX J54 Conti Pants Royal Blue/Navy Blue/Orange/Grey/Emerald Green sizes 30-64",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-FLAMERT-J30/44",
+    "name": "DROMEX D59 Fern Green Flame Conti Jacket with Reflective sizes 30-60",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-FLAMERT-P26/40",
+    "name": "DROMEX D59 Fern Green Flame Conti Pants with Reflective sizes 30-60",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-1120",
+    "name": "D59 Flame Retardant 100% Cotton Conti Suit - price rise from size 46",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-NOMEX-J32/44",
+    "name": "Nomex Inherent Flame-Resistant Jacket with Reflective sizes 32-60",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-NOMEX-P28/40",
+    "name": "Nomex Navy Blue Pants with Reflective sizes 28-56",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-NOMEX-O48",
+    "name": "Nomex Navy Blue Boiler Suits with Reflective sizes 32-60",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-POS220RTNB-J-32-44",
+    "name": "DROMEX Poseidon 220 Jacket Navy Blue size 32-64",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-POS220RTNB-P28-40",
+    "name": "DROMEX Poseidon 220 Pants Navy Blue size 28-60",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-POS220RTXX-O46",
+    "name": "DROMEX Poseidon 220 Oil and Gas Boilersuit Navy/Orange/Royal Blue/Red size 32-64",
+    "category": "conti",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-TECH-TXX-XS",
+    "name": "DROMEX 100% Polyester Tee Shirt Crew Neck 140gsm (Grey/Navy/Black/Red/Royal Blue)",
+    "category": "leisure",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-TSHIRTXX-S",
+    "name": "DROMEX T-Shirts Crew Neck 100% Cotton 165gsm (Grey/White/Navy/Black/Royal Blue/Yellow/Red/Bottle Green)",
+    "category": "leisure",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-GOLFER-XX-XS",
+    "name": "DROMEX Pique Knit Golfer 100% Polyester XS-5XL (Grey/White/Blue/Red/Black/Royal Blue)",
+    "category": "leisure",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "TS-AL-59-A",
+    "name": "Unisex Activ T-Shirt 160gsm 100% Polyester Black/Navy/Red/Royal Blue/White - price rise from XL",
+    "category": "leisure",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "BAS-3000",
+    "name": "Unisex Super Club 135 T-Shirt 135gsm 100% Cotton (multiple colors) - price rise from XL",
+    "category": "leisure",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-1300",
+    "name": "Zone Hi Viz T-Shirt - price rise from XL",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-EVM",
+    "name": "Mens or Ladies Everyday Golf Shirt 165gsm 100% Polyester (multiple colors) - price rise from XL",
+    "category": "leisure",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-BBM",
+    "name": "Mens or Ladies Basic Pique Golf Shirt 65% Polyester/35% Cotton (multiple colors) - price rise from XL",
+    "category": "leisure",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-1400",
+    "name": "Sector Hi Viz Golf Shirt - price rise from XL",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-1401",
+    "name": "Inspector Two Tone Hi Viz Golf Shirt - price rise from XL",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-1301",
+    "name": "Hi Viz Reflective T-Shirt - price rise from XL",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "SA19-L",
+    "name": "Lime Reflective Solid Material Maxi Bib",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "V014-Y",
+    "name": "Reflective Bib Mesh Maxi Bib Lime/Orange",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "SA7B2-S-3XL",
+    "name": "DROMEX Lime Mesh Vest Zip ID White PVC Tape Small to 3XL",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ZN-ECONO-VEST-OYR",
+    "name": "Econo Vest Orange/Yellow Reflective Vest with Zip & ID Pouch 100gsm",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "SA10-LIME-S-5XL",
+    "name": "DROMEX Lime or Orange Reflective Vest Zip ID Pouch Small to 5XL",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "V023Y",
+    "name": "Pioneer Lime or Orange Reflective Vest With Zip & ID Pouch",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "V020",
+    "name": "Pink Reflective Vest with Zip & ID Pouch S-4XL",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "V021",
+    "name": "Red Reflective Vest with Zip & ID Pouch S-4XL",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "V022",
+    "name": "Blue Reflective Vest with Zip & ID Pouch S-4XL",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "EN42TPRBS",
+    "name": "WATT EN4 Poly 2 Tone Red and Blue (local manufacture)",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "SA50-YB-L",
+    "name": "DROMEX Yellow/Blue Reflective Vest Zip ID Medium to 5XL",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "V035",
+    "name": "Orange/Navy Signalling Vest S-4XL",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "V036",
+    "name": "Lime/Navy Signalling Vest S-4XL",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "V050",
+    "name": "Pioneer Lime Neo Explorer Vest With Multi Pocket",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "H001-W",
+    "name": "Standard SABS Approved Hard Hats White/Blue/Yellow/Red/Green/Orange/Grey/Black (MOQ 20)",
+    "category": "headwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "H001-LIME",
+    "name": "Hard Hat High Vis Lime MOQ 20",
+    "category": "headwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "NIKKI",
+    "name": "Nikki Hard Hats SABS Various Colours MOQ 10",
+    "category": "headwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DH-HH-W",
+    "name": "DROMEX Range of Top Quality Hard Hats with 2-point chin strap (multiple colors)",
+    "category": "headwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DH-HHCL-W",
+    "name": "DROMEX Hard Hat with Cap Lamp Bracket",
+    "category": "headwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "TUFF",
+    "name": "Tuff Air Vent Hard Hat - All colors",
+    "category": "headwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-BVS",
+    "name": "Basic Sun Visor (black/blue/maroon/navy/red/white)",
+    "category": "headwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-2000",
+    "name": "Signal Hi Viz Reflective Cap",
+    "category": "headwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-PTS",
+    "name": "Revo Pantsula Floppy Bucket Hat Black/Navy/Red/White",
+    "category": "headwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-BAI",
+    "name": "Bailey Floppy Hat Black/Khaki/Navy/Red",
+    "category": "headwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DH-BUSHHAT",
+    "name": "DROMEX Bush Hat Khaki (with no drawstring)",
+    "category": "headwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-2001",
+    "name": "Roadside Hi Viz Reflective Hat",
+    "category": "headwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "H006-BLACK",
+    "name": "Bump Caps (Safety Cap with Plastic Insert) Black or Navy",
+    "category": "headwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "KONO",
+    "name": "KONO STC Safety Boots MOQ 10 pairs",
+    "category": "footwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "LMD600",
+    "name": "Pioneer Safety Shoes STC + SB MOQ 10 pairs",
+    "category": "footwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "PNBT",
+    "name": "Pioneer Safety Boots STC + Steel Midsole + SBP Anti-static MOQ 10 pairs",
+    "category": "footwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "PB001-BLACK",
+    "name": "Commander Chelsea STC Boots Black or Brown MOQ 10 pairs",
+    "category": "footwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "EVBT001",
+    "name": "Everest Summit Boots Chukka High Cut S3 SRC",
+    "category": "footwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "EVBT002",
+    "name": "Everest Workmate Shoe Chukka Low Cut S1 SRC",
+    "category": "footwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DF-GB-GP-XX",
+    "name": "DROMEX Unisex Armour Black Gumboot Size 4-13",
+    "category": "footwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "SS1011/SHOE-3",
+    "name": "DROMEX Boxer Black Safety Shoe Size 3-13",
+    "category": "footwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "SS1020/BOOT-3",
+    "name": "DROMEX Boxer Black Safety Boot - Budget Footwear",
+    "category": "footwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "K-JACKAL-LO",
+    "name": "Kaliber Jackal Lo Safety Shoe STC SZ 3-13",
+    "category": "footwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "K-JACKAL-HI",
+    "name": "Kaliber Jackal Hi Safety Boot STC SZ 3-14",
+    "category": "footwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "K-CONDOR",
+    "name": "Kaliber Condor Safety Shoe SMS STC SZ 3-13",
+    "category": "footwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "K-RAPTOR",
+    "name": "Kaliber Raptor Safety Boot SMS STC SZ 3-13",
+    "category": "footwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "K-KRONOS",
+    "name": "Kaliber Kronos Boots STC",
+    "category": "footwear",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "GNYLON-W8",
+    "name": "DROMEX Nylon 13gg Inspectors Gloves size 8-10",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "PU2001/7",
+    "name": "DROMEX Inspector Seamless White Inspectors Gloves PU Palm Coated",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "NITROLITE-8",
+    "name": "Nitrolite Grey Nitrile Palm Coated on White Shell 8-10",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "PU5-7",
+    "name": "DROMEX PU5 Cut 4 Glove size 7-10",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "55M-Y-7",
+    "name": "TaeKi5 Seamless Heat & Cut Gloves size 7-10",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "G062",
+    "name": "Puralite Cut Resistance Level 5 PU Palm Size 8-11 MOQ 120",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DG-HFM606-7",
+    "name": "DROMEX HFM 606 Superior Cut Glove Size 7-11",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "#57-7",
+    "name": "TaeKi5 Black Nitrile Palm Coated on Grey size 7-12",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "G033",
+    "name": "Green Nitrile Chemical Glove 33cm MOQ 144",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "1956-06-01 00:00:00",
+    "name": "DROMEX Green Nitrile Gloves EN388 & 372 size 7-11",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "GCOT",
+    "name": "10g 450gpd Natural Cotton Blend Crochet Glove",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DH100",
+    "name": "10gg 700gpd 100% Cotton Crochet",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "GPVC/KW",
+    "name": "Standard PVC Knitted Wrist",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "GPVC/35",
+    "name": "DROMEX Standard PVC Gloves Elbow Length 35cm",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "WH001",
+    "name": "Flipfront Welding Helmet MOQ 10",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "WH001-PION",
+    "name": "Superior Flipfront Welding Helmet",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-D59FAWH-NB",
+    "name": "D59 Navy Blue Flame & Acid Welders Hood One Size",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "KBELT-S-2XL",
+    "name": "DROMEX Kidney Belt Elasticated Ribbed Velcro Small to 2XL",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ACE 60X90",
+    "name": "DROMEX ACE Leather Welders Apron 60x90cm",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ACE ONE 60x90",
+    "name": "DROMEX ACE Leather Welders Apron 60x90cm One Piece",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "A018",
+    "name": "Pioneer Chrome Leather Apron 60x90 One Piece",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "WELDSCR-2X2",
+    "name": "Welding Screen Yellow 2x2m",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "WELDSCR-2X3",
+    "name": "Welding Screen Yellow 2x3m",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "SG001-B",
+    "name": "Direct Vent Grinding Goggle (Mono) MOQ 200",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "SG001-D",
+    "name": "Indirect Vent Grinding Goggle MOQ 200",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DV-11",
+    "name": "Direct Mesh Vent (1F) Goggle",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DV-21",
+    "name": "In Direct Dual Vent (1B 3 4 9) Polycarbonate Lens & Vinyl Frame EN 166 2002",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "PV002",
+    "name": "Pioneer Vision Wraparound Clear Anti Scratch MOQ 300",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "SG004",
+    "name": "Clear Anti Scratch MOQ 300",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DV-1C",
+    "name": "Wrap Around (Visitors) Composite Polycarbonate EN 166:2002 Clear",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "SG007",
+    "name": "Sporty Spec Clear MOQ 300 (sold by pack of 12 only)",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DV-326B-C-AF",
+    "name": "DROMEX Spoggle Clear Anti Mist",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DV-326B-G-AF",
+    "name": "DROMEX Spoggle Grey Anti Mist",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "SG010",
+    "name": "Pioneer Vision Maxi View Goggle Anti Scratch Anti Fog MOQ 10",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "WH007",
+    "name": "Face Shield Clear Complete with Bowguard MOQ 20",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DR-098",
+    "name": "Fluorescent Green Bell PU Foam Disposable Uncorded Earplug",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DRO30",
+    "name": "DROMEX Disposable Bullet Earplug (SNR 35)",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "EP001",
+    "name": "Pioneer PU Foamed Disposable Orange Uncorded 200 per box (MOQ 2000)",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "EP002",
+    "name": "Econo Red Universal Ear Muff MOQ 50",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "EP040",
+    "name": "Pioneer Blue Ear Muff MOQ 50",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "EP300",
+    "name": "Pioneer Blue Ear Muff SNR29dB MOQ 50",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "EP301",
+    "name": "Pioneer Ear Defender SNR34dB Red Earmuff MOQ 20",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "EP303",
+    "name": "Pioneer Tactical Earmuff SNR26dB Army Green MOQ 20",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "EP400",
+    "name": "Echo Bluetooth Electric Earmuff SNR29dB",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "EP026",
+    "name": "3Ply Surgical Masks per box of 50 (MOQ 10)",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "N95-5150",
+    "name": "DROMEX N95 Moulded 5150 Medical Mask",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "3231.0",
+    "name": "DROMEX FFP3 V Flat Fold Mask with Adjustable Headband",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "EP021",
+    "name": "Pioneer Dust Mask FFP2 Foldable",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "EP004",
+    "name": "Pioneer Dust Mask FFP1 MOQ 400",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "EP005",
+    "name": "Pioneer Dust Mask FFP2 MOQ 400",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "EP022",
+    "name": "Pioneer Dust Mask FFP2 Foldable With Valve",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "EP006-1",
+    "name": "Pioneer Dust Mask FFP2 With Valve MOQ 400",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "EP023",
+    "name": "Pioneer Dust Mask FFP3 With Valve MOQ 200",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DH-101",
+    "name": "Midimask PVC Single Mask Blue (NRCS AZ2011/43)",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DH-102",
+    "name": "Midimask PVC Double Mask Blue (NRCS AZ2011/45)",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DH-202",
+    "name": "Midimask TPR Double Mask Grey (NRCS AZ2011/46)",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DH-FFM",
+    "name": "DROMEX Maxi Full Face Mask Black (NRCS AZ8072/0187)",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "A038",
+    "name": "Motorist First Aid Kit Complete",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "FAKMBC",
+    "name": "First Aid Kit Mining Box Complete with Contents",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "FAR3W",
+    "name": "First Aid Regulation 3 Refill Kit MOQ 10",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "FAR7W",
+    "name": "First Aid Regulation 7 Refill Kit MOQ 10",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "FAEW",
+    "name": "Eye Wash Station, with mirror and two bottles",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "FAEWB",
+    "name": "Eye Wash Bottle each",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "FIRBL10",
+    "name": "Fire Blanket 1m x 1m",
+    "category": "general",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "FIRBL12",
+    "name": "Fire Blanket 1.2m x 1.2m",
+    "category": "general",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "FIRBL18",
+    "name": "Fire Blanket 1.8m x 1.8m",
+    "category": "general",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "TC500-E",
+    "name": "500mm Red Traffic Cone with Black Rubber Base",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "TC750-E",
+    "name": "750mm Red Traffic Cone with Black Rubber Base",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "TC1000-E",
+    "name": "1000mm Red Traffic Cone with Black Rubber Base",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "TC300-P",
+    "name": "Orange Soft PVC Traffic Cone with Reflective Tape 300mm",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "TC450-P",
+    "name": "Orange Soft PVC Traffic Cone with Reflective Tape 450mm",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "TC700-P",
+    "name": "Orange Soft PVC Traffic Cone with Reflective Tape 700mm",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "BT-500",
+    "name": "Barrier Tape 2 Tone 1x500m Roll White/Red",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "BT-100",
+    "name": "Barrier Tape 2 Tone 1x100m Roll White/Red",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "BT500-YB",
+    "name": "Barrier Tape 2 Tone 1x500m Roll Yellow/Black",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "EP013",
+    "name": "Emergency Warning Triangle Steel",
+    "category": "hivis",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "WET FLOOR",
+    "name": "Wet Floor Caution Sign Yellow MOQ 10",
+    "category": "general",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-CNS",
+    "name": "Unisex Short Sleeve Cannes Utility Top Black or White",
+    "category": "hospitality",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-ZSS",
+    "name": "Unisex Short Sleeve Zest Chef Jacket",
+    "category": "hospitality",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-ZSL",
+    "name": "Unisex Long Sleeve Zest Chef Jacket",
+    "category": "hospitality",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-TLN",
+    "name": "Unisex Long Sleeve Toulon Chef Jacket",
+    "category": "hospitality",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-GOR",
+    "name": "Unisex Gordon Chef Pants",
+    "category": "hospitality",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "4650-PC",
+    "name": "Full Apron Navy/Khaki/White/Black",
+    "category": "hospitality",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-WAP",
+    "name": "Waiters Half Apron Black or White",
+    "category": "hospitality",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "3017-PC",
+    "name": "Chef's Mushroom Hat",
+    "category": "hospitality",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "A033",
+    "name": "Disposable Overall Zip+Hood Non Woven White 30-40gsm MOQ 50",
+    "category": "general",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "A033-BLUE",
+    "name": "Disposable Overall Zip+Hood Non Woven Blue 30-40gsm MOQ 50",
+    "category": "general",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "PDISPO/M-3XL",
+    "name": "Disposable Overalls 50gsm Non Woven Medium to 3XL",
+    "category": "general",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "PROMAX-S-3XL",
+    "name": "Promax White Disposable Overalls Type 5/6 Small to 3XL",
+    "category": "boiler",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "A042",
+    "name": "Disposable Overall Type5/6 EN1149 EN13034 MOQ 50",
+    "category": "boiler",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "TY200ES",
+    "name": "Tyvek 200 Easysafe Category III Type 5 & 6 Hooded Coverall - Antistatic",
+    "category": "boiler",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "TYV500XP",
+    "name": "Tyvek 500 Xpert Category III Type 5-B and 6-B Coverall with 3-piece hood",
+    "category": "boiler",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "TYV600",
+    "name": "Tyvek 600 Plus Cat. III Type 4B, 5B, 6B Coverall with 3-piece hood",
+    "category": "boiler",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DISLAB L",
+    "name": "Non Woven Disposable Lab Coat MOQ 50 Large",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "CS005-32-44",
+    "name": "Dust Coat Poly Cotton Royal Blue - price rise from size 46 (MOQ 10)",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "CS008-32-44",
+    "name": "Dust Coat Poly Cotton White - price rise from size 46 (MOQ 10)",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "ALT-1107",
+    "name": "Unisex Prime Polycotton Dust Coat Black/Navy/Grey/Royal Blue/White - price rise from XL",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "3390-PC",
+    "name": "Polycotton Dust Coat White/Navy/Emerald Green/Khaki/Grey/Red",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "3390-J54",
+    "name": "J54 Dust Coat J54 Royal",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-ARC9.9-SST-S-5XL",
+    "name": "DROMEX Arc T-Shirt Short Sleeve 9.9 Cal S-3XL",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-ARC9.9-LST-S-5XL",
+    "name": "DROMEX Arc T-Shirt Long Sleeve 9.9 Cal S-3XL",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-ARC15-J30/44",
+    "name": "DROMEX Arc HRC2 15Cal Jacket sizes 32-68 (navy or orange)",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-ARC15-P28/40",
+    "name": "DROMEX Arc HRC2 15Cal Pants sizes 28-66 (navy or orange)",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-ARC15-O30-44",
+    "name": "DROMEX Arc 15 Navy Overall Boilersuit Size 28-60",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-ARC25-J-S",
+    "name": "DROMEX Arc HRC3 25Cal Jacket Small-3XL",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-ARC25-P-S",
+    "name": "DROMEX Arc HRC3 25Cal Pants Small-3XL",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-ARC55-J-S",
+    "name": "DROMEX Arc HRC4 55Cal Jacket Small to 5XL",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DW-ARC100-J-S",
+    "name": "DROMEX Sky Blue Electric 100 Cal Arc Jackets",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DH-ARC-HHKW",
+    "name": "Arc Hard Hat Type 1, Class E, 20 000V White",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DG-CA420-8",
+    "name": "DROMEX A.P.T 51Cal Leather Arc Gloves Size 8-11",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DF-FLASH-3",
+    "name": "DROMEX Flashtread Arc Boot Size 3-13",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DFA-PN10",
+    "name": "DROMEX Full Body Harness with Attached Double Lanyard, with Scaffold Hooks",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DFA-PN21",
+    "name": "DROMEX Full Body Harness with Waist Belt, Attached Double Lanyard with Scaffold Hooks",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DFA-TPGS06",
+    "name": "Retractable Fall Arrester (6m) New Handle Casing",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "DFA-TPGS15",
+    "name": "Retractable Fall Arrester (15m) New Handle Casing",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "10B",
+    "name": "Basic Harness (SN1) with Single Snap Hooks + 1.75m Lanyard - MOQ 5",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "20C",
+    "name": "Basic Harness (SC2) with Double Scaffold Hooks + 1.75m Lanyard - MOQ 5",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "8.46",
+    "name": "Professional Harness",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "9.11",
+    "name": "Elite Harness",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "8.21",
+    "name": "Lanyard SC2 with Carabiner Connector",
+    "category": "ppe",
+    "supplier": "ZANI",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "4022-J54",
+    "name": "Reflective Conti Suits 2PC",
+    "category": "conti",
+    "supplier": "B2B",
+    "desc": "100% Cotton, 220g/m2",
+    "image": ""
+  },
+  {
+    "id": "4014-PC",
+    "name": "Reflective Conti Suits 2PC",
+    "category": "conti",
+    "supplier": "B2B",
+    "desc": "65/35 Polycotton, 245g/m2,",
+    "image": ""
+  },
+  {
+    "id": "4014-PC-AR",
+    "name": "Acid Resistant Conti Suits 2PC",
+    "category": "conti",
+    "supplier": "B2B",
+    "desc": "Polycotton Acid Resistant 245g/m2",
+    "image": ""
+  },
+  {
+    "id": "3333-PC",
+    "name": "Econo Workwear Conti Suit",
+    "category": "conti",
+    "supplier": "B2B",
+    "desc": "Polycotton 200g/m2",
+    "image": ""
+  },
+  {
+    "id": "3333-DE",
+    "name": "Econo Workwear Conti Suit",
+    "category": "conti",
+    "supplier": "B2B",
+    "desc": "Denim 100% Cotton",
+    "image": ""
+  },
+  {
+    "id": "4751-PC",
+    "name": "Two Tone Poycotton Conti Suit",
+    "category": "conti",
+    "supplier": "B2B",
+    "desc": "Polycotton Twill 245g/m2",
+    "image": ""
+  },
+  {
+    "id": "4641-PC",
+    "name": "Hi-Vis Two-Tone Conti Suit",
+    "category": "conti",
+    "supplier": "B2B",
+    "desc": "Polycotton Twill 245g/m2, Hi-Vis Interwoven",
+    "image": ""
+  },
+  {
+    "id": "4727-PC",
+    "name": "Hi-Vis Construction Conti-Suit",
+    "category": "conti",
+    "supplier": "B2B",
+    "desc": "Water Repellent 210g/m2, Interwoven Polcotton Twill",
+    "image": ""
+  },
+  {
+    "id": "3485-J54",
+    "name": "J54 Boiler Suit",
+    "category": "boiler",
+    "supplier": "B2B",
+    "desc": "100% Cotton 2/1, Twill 220g/m2",
+    "image": ""
+  },
+  {
+    "id": "3852-PC",
+    "name": "Polycotton Boiler Suit",
+    "category": "boiler",
+    "supplier": "B2B",
+    "desc": "Polycotton 3/1 Twill 200g/m2",
+    "image": ""
+  },
+  {
+    "id": "6323",
+    "name": "Hi-Vis Reflective Traffic Jacket",
+    "category": "hivis",
+    "supplier": "B2B",
+    "desc": "Polyester Tricot, Reflective Tape",
+    "image": ""
+  },
+  {
+    "id": "5275-PC",
+    "name": "Hi-Vis Fleece Lined Bomber Jacket",
+    "category": "hivis",
+    "supplier": "B2B",
+    "desc": "Water Repellent Polycotton, Polar Fleece",
+    "image": ""
+  },
+  {
+    "id": "5169-CO",
+    "name": "Hi-Vis Shirts Two Tone",
+    "category": "hivis",
+    "supplier": "B2B",
+    "desc": "Long Sleeve Vented, 100% Cotton 140g/m2",
+    "image": ""
+  },
+  {
+    "id": "6137-CO",
+    "name": "Hi-Vis Shirt Two Tone",
+    "category": "hivis",
+    "supplier": "B2B",
+    "desc": "Short Sleeve Vented, 100% Cotton 140g/m2",
+    "image": ""
+  },
+  {
+    "id": "9303",
+    "name": "Hi-Vis Reflective Vest",
+    "category": "hivis",
+    "supplier": "B2B",
+    "desc": "EN4 Style Tricot Solid Vest",
+    "image": ""
+  },
+  {
+    "id": "5002-PVC",
+    "name": "Rainwear",
+    "category": "workwear",
+    "supplier": "B2B",
+    "desc": "Polyester PVC Calf-Length",
+    "image": ""
+  },
+  {
+    "id": "6146-PVC",
+    "name": "Rainwear",
+    "category": "hivis",
+    "supplier": "B2B",
+    "desc": "Polyester PVC Reflective Calf-Length Rain Coat",
+    "image": ""
+  },
+  {
+    "id": "6145-PVC",
+    "name": "Rain Suit",
+    "category": "hivis",
+    "supplier": "B2B",
+    "desc": "Polyester PVC Reflective Rain Suit",
+    "image": ""
+  },
+  {
+    "id": "5001-PVC-RF",
+    "name": "Rain Suit",
+    "category": "hivis",
+    "supplier": "B2B",
+    "desc": "Hi-Vis Reflective Tape",
+    "image": ""
+  },
+  {
+    "id": "7216-PO",
+    "name": "Hi-Vis Two Tone Jacket",
+    "category": "hivis",
+    "supplier": "B2B",
+    "desc": "Two Tone Freezer Jacket",
+    "image": ""
+  },
+  {
+    "id": "6289-PO",
+    "name": "Security Jacket",
+    "category": "security",
+    "supplier": "B2B",
+    "desc": "Water Resistant Polyester",
+    "image": ""
+  },
+  {
+    "id": "9120-AC",
+    "name": "Security Long Sleeve Jacket",
+    "category": "security",
+    "supplier": "B2B",
+    "desc": "100% Acrylic, Polycotton twill",
+    "image": ""
+  },
+  {
+    "id": "3762-PC",
+    "name": "Womens Canteen Overall",
+    "category": "hospitality",
+    "supplier": "B2B",
+    "desc": "80/20 Polycotton, Lapel Collar",
+    "image": ""
+  },
+  {
+    "id": "3933-PC",
+    "name": "Womens House Keeping Uniform",
+    "category": "ppe",
+    "supplier": "B2B",
+    "desc": "Dress & Belt, Head Scarf & Half Apron",
+    "image": ""
+  },
+  {
+    "id": "3007-PC",
+    "name": "Chef Jacket",
+    "category": "hospitality",
+    "supplier": "B2B",
+    "desc": "80/20 Polyester, French Cuffs",
+    "image": ""
+  },
+  {
+    "id": "4659-PC",
+    "name": "Baggy Chef Pants",
+    "category": "hospitality",
+    "supplier": "B2B",
+    "desc": "80/20 Polyester, Fully Elasticated",
+    "image": ""
+  },
+  {
+    "id": "7591-CO",
+    "name": "Women Hi-Vis Two Tone Long Sleeve",
+    "category": "hivis",
+    "supplier": "B2B",
+    "desc": "100% Cotton 140g/m2",
+    "image": ""
+  },
+  {
+    "id": "7590-CO",
+    "name": "Women Hi-Vis Two Tone Short Sleeve",
+    "category": "hivis",
+    "supplier": "B2B",
+    "desc": "100% Cotton 140g/m2",
+    "image": ""
+  },
+  {
+    "id": "6403-J54",
+    "name": "Women Relective Boiler Suit",
+    "category": "boiler",
+    "supplier": "B2B",
+    "desc": "J54, 100% Cotton 2/1 Sateen 220g/m2",
+    "image": ""
+  },
+  {
+    "id": "4611-CO",
+    "name": "Delta Two Tone Bush Shirt",
+    "category": "leisure",
+    "supplier": "B2B",
+    "desc": "100% Cotton 2/1 Fine Twill 140g/m2",
+    "image": ""
+  },
+  {
+    "id": "SM016-CO",
+    "name": "Expedition Bush Shirt",
+    "category": "leisure",
+    "supplier": "B2B",
+    "desc": "100% Cotton 2/1 Fine Twill 140g/m2",
+    "image": ""
+  },
+  {
+    "id": "6023",
+    "name": "Double Cartridge Respirators",
+    "category": "ppe",
+    "supplier": "B2B",
+    "desc": "Soft PVC Mask, Efficient Exhalation Mask",
+    "image": ""
+  },
+  {
+    "id": "6022",
+    "name": "Single Cartridge Respirators",
+    "category": "ppe",
+    "supplier": "B2B",
+    "desc": "Soft PVC Mask, Efficient Exhalation Mask",
+    "image": ""
+  },
+  {
+    "id": "6054",
+    "name": "Classic Folding Ear Muffs",
+    "category": "ppe",
+    "supplier": "B2B",
+    "desc": "Suitable for Loud Machinery Workplace",
+    "image": ""
+  },
+  {
+    "id": "6055",
+    "name": "Ear Muffs with Hardhat Attachment",
+    "category": "ppe",
+    "supplier": "B2B",
+    "desc": "Suitable for Loud Machinery Workplace",
+    "image": ""
+  },
+  {
+    "id": "NEP4002MARBB",
+    "name": "Womens Gumboots",
+    "category": "footwear",
+    "supplier": "B2B",
+    "desc": "Calf Length, PVC, General Purpose Use",
+    "image": ""
+  },
+  {
+    "id": "NEP4003LOZBB",
+    "name": "Knee Length Gumboots",
+    "category": "footwear",
+    "supplier": "B2B",
+    "desc": "Heavy Duty Steel Toe, Black/Black",
+    "image": ""
+  },
+  {
+    "id": "NEP4001SHOVWG",
+    "name": "Knee Length Gumboots",
+    "category": "footwear",
+    "supplier": "B2B",
+    "desc": "Oil & Acid Resistant Sole, White/Grey",
+    "image": ""
+  },
+  {
+    "id": "NEP4001SHOVBB",
+    "name": "Knee Length Gumboots",
+    "category": "footwear",
+    "supplier": "B2B",
+    "desc": "General Use Blac/Black",
+    "image": ""
+  },
+  {
+    "id": "NEP4003LOZBG",
+    "name": "PVC Heavy Duty Knee Length Gumboots",
+    "category": "footwear",
+    "supplier": "B2B",
+    "desc": "Steel Toe Cap, Metatarsal Protection,Mining Gumboots Black/Grey",
+    "image": ""
+  },
+  {
+    "id": "NEP4003LOZWG",
+    "name": "Heavy Duty White/Grey Gumboots",
+    "category": "footwear",
+    "supplier": "B2B",
+    "desc": "Execellent grip and Sole Grip",
+    "image": ""
+  },
+  {
+    "id": "NEPSPMLOZBG",
+    "name": "Heavy Duty STC Gumboot",
+    "category": "footwear",
+    "supplier": "B2B",
+    "desc": "Steel Toe Protection, Steel Mid Sole",
+    "image": ""
+  },
+  {
+    "id": "6049",
+    "name": "Safety Harness",
+    "category": "ppe",
+    "supplier": "B2B",
+    "desc": "Safety Harness with Scaffold Hooks",
+    "image": ""
+  },
+  {
+    "id": "6048",
+    "name": "Safety Harness",
+    "category": "ppe",
+    "supplier": "B2B",
+    "desc": "Safety Harness with Snap Hooks",
+    "image": ""
+  },
+  {
+    "id": "6068",
+    "name": "Safety Harness, Energy Absorber",
+    "category": "ppe",
+    "supplier": "B2B",
+    "desc": "Belted, Double Lanyard, Scaffold Hooks",
+    "image": ""
+  },
+  {
+    "id": "6090",
+    "name": "Roofers Kit",
+    "category": "ppe",
+    "supplier": "B2B",
+    "desc": "Anchor Sling 150cm, Kernmante Statis Rope 11mm, Mobile Fall Arrestor Twist",
+    "image": ""
+  },
+  {
+    "id": "6071",
+    "name": "Scaffold Hooks",
+    "category": "ppe",
+    "supplier": "B2B",
+    "desc": "Lanyard-SC2 with Energy Absorber",
+    "image": ""
+  },
+  {
+    "id": "6098",
+    "name": "Temporary Horizontal Lifeline 20m",
+    "category": "general",
+    "supplier": "B2B",
+    "desc": "Anchor Slings 150cm, 2.5-tonBow Shackle Connectors, Twist Lock Carabiner, Gear Bag 50",
+    "image": ""
+  },
+  {
+    "id": "6063",
+    "name": "Mining Harness Only",
+    "category": "headwear",
+    "supplier": "B2B",
+    "desc": "Padded Belt with Cap Lamp Straps, Adjustable Straps",
+    "image": ""
+  },
+  {
+    "id": "6005CL",
+    "name": "Direct Vent SafetyGoogles",
+    "category": "general",
+    "supplier": "B2B",
+    "desc": "PVC Frame, Mechanical Strenght B",
+    "image": ""
+  },
+  {
+    "id": "6006CL",
+    "name": "Indirect Vent Safety Googles",
+    "category": "general",
+    "supplier": "B2B",
+    "desc": "PVC Frame, Mechanical Strenght B",
+    "image": ""
+  },
+  {
+    "id": "2124",
+    "name": "Safety Gloves",
+    "category": "ppe",
+    "supplier": "B2B",
+    "desc": "Chemical & Acid PVC Gloves 27cm & 40cm",
+    "image": ""
+  },
+  {
+    "id": "2126",
+    "name": "Safety Gloves",
+    "category": "ppe",
+    "supplier": "B2B",
+    "desc": "Chemical & Acid PVC Gloves 60cm",
+    "image": ""
+  },
+  {
+    "id": "2116",
+    "name": "PVC Reinforced Safety Gloves 27cm",
+    "category": "ppe",
+    "supplier": "B2B",
+    "desc": "PVC Miners Stop/Go Gloves, Red Left & Green Right Hand",
+    "image": ""
+  },
+  {
+    "id": "2117",
+    "name": "PVC Reinforced Safety Gloves 35cm",
+    "category": "ppe",
+    "supplier": "B2B",
+    "desc": "PVC Miners Stop/Go Gloves, Red Left & Green Right Hand",
+    "image": ""
+  },
+  {
+    "id": "8625-CO",
+    "name": "Hwange Bush Shirt",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% cotton 2/1 fine twill 140 g/m² >Fully fused sun protector collar\nChest pockets with velcro flap closures and box pleats\nDouble needle topstitched throughout for reinforced strength\nSoft-washed and pre-shrunk\nMock horn buttons\nRounded shirt tail",
+    "image": ""
+  },
+  {
+    "id": "8555-CO",
+    "name": "Maasi Mara L/S Bush Shirt",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% cotton 2/1 fine twill 140 g/m² >Long sleeves with adjustable cuffs\nChest pockets with Velcro closures and box pleats\nPockets attached with double needle\nMock horn buttons\nRounded shirt tail\nDouble needle topstitched throughout for reinforced strength\nSoft-washed and pre-shrunk",
+    "image": ""
+  },
+  {
+    "id": "8479-CO",
+    "name": "Majeta Bush T-Shirt",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Lightweight t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "7021-CO",
+    "name": "Luangwa Stretch Golfer",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "95% cotton 5% elastane pique knit 220g/m >Premium cotton pique\nSoft Handle\n2-way stretch\nRibbed collar and cuffs\nStretch for added comfort",
+    "image": ""
+  },
+  {
+    "id": "7880-CO",
+    "name": "Tsavo Stretch Bush Cargo Pants",
+    "category": "general",
+    "supplier": "SALTY",
+    "desc": "98% cotton 2% spandex 1/1 canvas 240g/m² >Stretch fabric for added comfort\nZip & button closure at front\nFront slanted side pockets with mock pocket flap\nSide utility patch pockets with bellow pleats and concealed press stud closure\nBack welt pocket with flap and press stud closure\nDouble needle sideseam topstitch\nEnzyme washed",
+    "image": ""
+  },
+  {
+    "id": "8261-CO",
+    "name": "Salongo Two Tone Stretch Cargos",
+    "category": "general",
+    "supplier": "SALTY",
+    "desc": "98% cotton 2% spandex 1/1 canvas 240g/m² >Stretch fabric for added comfort\nZip & button closure at front\nFrontier pockets\nCargo utility pockets with velcro closure\nBack patch pockets\nHammer Loop\nDouble layer knee guard\nDouble layer heel guard\nTriple needle sideseam topstitch\nEnzyme washed",
+    "image": ""
+  },
+  {
+    "id": "EM043-CO",
+    "name": "Trailblazer Cargos",
+    "category": "general",
+    "supplier": "SALTY",
+    "desc": "100% cotton 3/1 ringspun twill 240 g/m² >Wide belt loops\nMock horn button closure\nMetal zip fly\nFront slant pockets\nCargo pockets with Velcro flaps\nPockets attached with double needle\nDouble needle stitched seams\nStress points bar-tacked\nSoft-washed and pre-shrunk",
+    "image": ""
+  },
+  {
+    "id": "8751-CO",
+    "name": "Gorongosa Men’s Chino",
+    "category": "general",
+    "supplier": "SALTY",
+    "desc": "100% cotton 3/1 ringspun twill 240g/m² >Wide belt loops\nMock horn button closure\nMetal zip fly\nFront slant pockets\nBack pockets attached with double needle\nDouble needle stitched seams\nStress points bar-tacked\nSoft-washed and pre-shrunk",
+    "image": ""
+  },
+  {
+    "id": "8774-CO",
+    "name": "Virunga Men’s Cargo Shorts",
+    "category": "general",
+    "supplier": "SALTY",
+    "desc": "100% cotton 3/1 ringspun twill 240g/m² >Fully fused waistband with button closure\nMetal zip fly\nCargo pockets with Velcro flaps\nPockets attached with double needle\nMock horn buttons\nDouble needle stitched seams\nStress points bar-tacked\nSoft-washed and pre-shrunk",
+    "image": ""
+  },
+  {
+    "id": "6241-CO",
+    "name": "Epic Cargo Kortbroek",
+    "category": "general",
+    "supplier": "SALTY",
+    "desc": "100% brushed cotton canvas 260 g/m² | Khaki, Olive, Stone, Taupe >100% cotton 3/1 ringspun twill 240 g/m² | Fatigue, Desert Khaki >Fused front waistband with button closure\nHalf elasticated back\nShort inleg\nSide slant pockets\nMetal zip fly\nDouble cargo pockets with Velcro flap closures\nBack jet pockets with Velcro flap closure\nPockets attached with double needle\nMock horn buttons\nDouble needle stitched seams\nStress points bar-tacked\nSoft-washed and pre-shrunk",
+    "image": ""
+  },
+  {
+    "id": "5860-CO",
+    "name": "Rhino PT Shorts",
+    "category": "general",
+    "supplier": "SALTY",
+    "desc": "100% cotton 2/1 fine twill 140 g/m² >OEKO-TEX® STANDARD 100 Certified >Fully elasticated waistband\nSide pockets reinforced with self fabric stays and natural twill tape\nStress points bar-tacked\nSoft-washed and pre-shrunk",
+    "image": ""
+  },
+  {
+    "id": "7284-CO",
+    "name": "Caprivi Safari Jacket",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "Outer | 100% cotton 3/1 twill 240g/m² >Lining | Quilted polyester body 100% cotton sleeves >Adjustable sleeve cuffs\nAdjustable waist\nMultiple utility pockets\nInternal storage pockets\nZip & press stud front closure\nShoulder epaulets\nEnzyme washed",
+    "image": ""
+  },
+  {
+    "id": "7395-SSH",
+    "name": "Etosha Softshell Jacket",
+    "category": "general",
+    "supplier": "SALTY",
+    "desc": "92% polyester 8% spandex 310g/m² >Premium 3 layer softshell technology\nWaterproof up to 5000mm\nBreathability up to 2500g/m²/24hrs\nWindproof\nLightweight\nReverse nylon zip closure\nFleece lined side entry pockets\nInner storage pockets\nAdjustable cuffs\n4-way stretch for comfort\nNot seam sealed",
+    "image": ""
+  },
+  {
+    "id": "8650-CO",
+    "name": "Savannah Womens S/S Bush Shirt",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% cotton 2/1 fine twill 140 g/m² >Soft fused shirt collar\nShort sleeves\nChest pockets with box pleats and button down flaps\nMock horn buttons\nEpaulette detail on shoulders\nRounded shirt tail and shaped side seams\nSide slits for ease of movement\nSoft-washed and pre-shrunk",
+    "image": ""
+  },
+  {
+    "id": "8651-CO",
+    "name": "Liuwa Womens L/S Bush Shirt",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% cotton 2/1 fine twill 140 g/m² >Soft fused shirt collar\nLong sleeves with adjustable cuffs\nChest pockets with box pleats and button down flaps\nMock horn buttons\nEpaulette detail on shoulders\nRounded shirt tail and shaped side seams\nSide slits for ease of movement\nSoft-washed and pre-shrunk",
+    "image": ""
+  },
+  {
+    "id": "7023-CO",
+    "name": "Liwonde Womens Stretch Golfer",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "95% cotton 5% elastane pique knit 220g/m >Premium cotton pique\nSoft Handle\n2-way stretch\nRibbed collar and cuffs\nStretch for added comfort",
+    "image": ""
+  },
+  {
+    "id": "8666-CO",
+    "name": "Gambella S/S Bush Dress",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% cotton 2/1 fine twill 140 g/m² >Soft fused collar\nShort sleeves\nChest pockets with box pleats and button down flaps\nCargo pockets with box pleats and button down flaps\nSelf fabric belt\nMock horn buttons\nEpaulette detail on shoulders\nSoft-washed and pre-shrunk",
+    "image": ""
+  },
+  {
+    "id": "8652-CO",
+    "name": "Women’s Kibale Bush Cargo",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "98% cotton 2% spandex 1/1 canvas 240g/m² >Zip & button closure at front\nMock slant chino pockets\nSide utility patch pockets with button closure\nBack welt pockets with button closure\nDouble needle side seam topstitch\nStretch fabric for added comfort\nSoft- washed and pre-shrunk",
+    "image": ""
+  },
+  {
+    "id": "8480-CO",
+    "name": "Nyika Bush T-Shirt",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Lightweight t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8781-CO",
+    "name": "Niassa Cargo Skirt",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% cotton 2/1 fine twill 140 g/m² >Zip & button closure\nWide belt loops\nTriple needle sideseam topstitch\nSide utility pockets with button closure\nBack hem slit opening for movement",
+    "image": ""
+  },
+  {
+    "id": "7338-CO",
+    "name": "Okavango Safari Jacket",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "Outer | 100% cotton 3/1 twill 240g/m² >Lining | Polyester sherpa body 100% cotton sleeves >Sherpa lining\nAdjustable sleeve cuffs\nAdjustable waist\nSide entry patch pockets\nZip & press stud front closure\nSherpa lined hood\nInternal storage pockets\nEnzyme washed",
+    "image": ""
+  },
+  {
+    "id": "7323-CO",
+    "name": "Tuli Softshell Jacket",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "92% polyester, 8% spandex 310g/m² >Premium 3 layer softshell technology\nWaterproof up to 5000mm\nBreathability up to 2500g/m²/24hrs\nWindproof\nLightweight\nReverse nylon zip closure\nFleece lined side entry pockets\nInner storage pockets\nAdjustable cuffs\n4-way stretch for comfort\nNot seam sealed",
+    "image": ""
+  },
+  {
+    "id": "4703-CO",
+    "name": "Lamb Champs – Tugela Bush Shirt",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% cotton 2/1 fine twill 140 g/m² >OEKO-TEX® STANDARD 100 Certified >Classic soft fused collar\nChest pockets with velcro flap closures and box pleats\nPen division on left chest pocket\nDouble needle topstitched throughout\nMock cuffs\nMock horn buttons\nRounded shirt tail",
+    "image": ""
+  },
+  {
+    "id": "4611-CO",
+    "name": "Delta Two Tone Bush Shirt",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% cotton 2/1 fine twill 140 g/m² >OEKO-TEX® STANDARD 100 Certified >Classic soft fused collar\nContrast front and back yokes\nChest pockets with velcro flap closures and box pleats\nPen division on left chest pocket\nDouble needle topstitched throughout\nMock cuffs\nMock horn buttons\nRounded shirt tail",
+    "image": ""
+  },
+  {
+    "id": "7818-CO",
+    "name": "Katima Vented Shirt",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% cotton 2/1 fine twill 140 g/m² >OEKO-TEX® STANDARD 100 Certified >Vented back to promote air circulation\nChest pockets with velcro flap closure and pen devision\nGenerous side entry utility pockets\nMock horn buttons\nRounded shirt hem\nDouble needle topstitched throughout",
+    "image": ""
+  },
+  {
+    "id": "8083-CO",
+    "name": "Longhorn Country Jacket",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Cotton canvas duck outer 360g/m² >Polyester Sherpa lining, body and hood 270g/m² >Thermal batting, sleeve 210 g/m² >Polyester taffeta lining, sleeve 50 g/m²\nLeft chest pocket with brass zipper closure\nLined lower front pockets\nTwo interior pockets\nFull-length brass front zipper\nPress stud adjustable cuff closure\nAction back pleats\nShaped back hem\nQuilted lined sleeves\nSherpa-lined three-piece hood with adjustable draw cord\nTriple stitched side and shoulder seams and armholes",
+    "image": ""
+  },
+  {
+    "id": "6882-CO",
+    "name": "Kariba Stretch Utility Cargos",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "98% cotton 2% spandex 2/1 twill 215g/m² >Front zip & button closure\nWide belt loops\nCoin pocket\nSide slant chino pockets with binding\nMultiple cargo utilty pockets\nBack flap pockets with Velcro closure\nEnzyme washed and pre-shrunk\nStretch fabric for added comfort",
+    "image": ""
+  },
+  {
+    "id": "7640-CO",
+    "name": "Cobra Stretch Flat Front Chinos",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "98% Cotton 2% Stretch 2/1 Twill 215g/m² >Flat front, sleek design\nFront and rear functional pockets\nMetal zip fly\nStretch for added comfort",
+    "image": ""
+  },
+  {
+    "id": "5016D-DE",
+    "name": "Armadillo Slim Fit Stretch Jeans Dark",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "98% Cotton, 2% Spandex 12.5oz >Stretch denim for comfort\nAuthentic vintage dark wash\nContemporary design\nMetal zip fly",
+    "image": ""
+  },
+  {
+    "id": "5016L-DE",
+    "name": "Armadillo Slim Fit Stretch Jeans Light",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "98% Cotton 2% Spandex 12.5oz >Stretch denim for comfort\nAuthentic vintage light wash\nContemporary design\nMetal zip fly",
+    "image": ""
+  },
+  {
+    "id": "7850-DE",
+    "name": "Kwagga Mens Slim Fit Stretch Jeans",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "73% cotton 25% polyester 2% spandex denim 10oz >5 Pocket styling\nDouble needle front rise, seat and inleg\nBrass rivets and bar-tacks on stress points\nRiveted brass button closure\nBrass zip fly\nBack patch pockets with profile stitch design\nDark Wash\nStretch for added comfort",
+    "image": ""
+  },
+  {
+    "id": "7849-CO",
+    "name": "Oshakati Kortbroek",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "98% cotton 2% spandex 2/1 twill 215g/m² >Front zip and button closure\nWide belt loops\nSide slant chino pockets with binding\nMultiple side utility patch pockets\nBack flap and welt pockets with Velcro closure\nElasticated back waistband\nEnzyme washed and pre-shrunk\nStretch fabric for added comfort",
+    "image": ""
+  },
+  {
+    "id": "5860-J54",
+    "name": "Rhino PT Shorts",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% cotton 2/1 fine twill 140 g/m² >OEKO-TEX® STANDARD 100 Certified >Fully elasticated waistband\nSide slant pockets\nStress points bar-tacked\nSoft-washed and pre-shrunk",
+    "image": ""
+  },
+  {
+    "id": "8482A-CO",
+    "name": "Salty T-Shirt Lifes Great Adventure",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482H-CO",
+    "name": "Salty T-Shirt Salty Kudu",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482C-CO",
+    "name": "Salty T-Shirt Springbok",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482L-CO",
+    "name": "Salty T-Shirt Africa",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482R-CO",
+    "name": "Salty T-Shirt Nguni Stamp",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handleShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482I-CO",
+    "name": "Salty T-Shirt Nyala",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482F-CO",
+    "name": "Salty T-Shirt Tractor",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482O-CO",
+    "name": "Salty T-Shirt Water Buffalo Skull",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482G-CO",
+    "name": "Salty T-Shirt Springbok Stamp",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "Unique printed lightweight graphic t-shirt >Ribbed crew neck >Soft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482N-CO",
+    "name": "Salty T-Shirt Salty Buckle",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt >Ribbed crew neck >Soft handle >Short sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482Q-CO",
+    "name": "Salty T-Shirt Salty Nguni",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482D-CO",
+    "name": "Salty T-Shirt Meerkat",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482J-CO",
+    "name": "Salty T-Shirt Tractor Badge",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482B-CO",
+    "name": "Salty T-Shirt Salty Feeling",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482T-CO",
+    "name": "Salty T-Shirt Outdoor Adventure",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482E-CO",
+    "name": "Salty T-Shirt Kudu",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482S-CO",
+    "name": "Salty T-Shirt Kudu Lager",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482M-CO",
+    "name": "Salty T-Shirt Fishing Club",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482K-CO",
+    "name": "Salty T-Shirt Water Buffalo",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8482P-CO",
+    "name": "Salty T-Shirt Salty Horns",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "7022-CO",
+    "name": "Malamala Stretch Golfer",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "95% cotton 5% elastane pique knit 220g/m >Premium cotton pique\nSoft Handle\n2-way stretch\nRibbed collar and cuffs\nStretch for added comfort",
+    "image": ""
+  },
+  {
+    "id": "SV100-CO",
+    "name": "Dune Slim Fit Safari Shirt",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% cotton 2/1 fine twill 140 g/m² >Soft fused shirt collar\nShort sleeves with roll up tabs\nChest pockets with button down flaps\nPockets attached with double needle\nMock horn buttons\nRounded shirt tail and shaped side seams\nSoft-washed and pre-shrunk",
+    "image": ""
+  },
+  {
+    "id": "7166-CO",
+    "name": "Karoo Stretch Utility Shorts",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "98% cotton 2% spandex 2/1 twill 215g/m² \nZip & button closure\nWide belt loops\nFront curved patch pockets\nTriple needle sideseam topstitch\nBack utility pockets with button closure\nEnzyme washed and pre-shrunk\nStretch fabric for added comfort\nHem turn-up loop>",
+    "image": ""
+  },
+  {
+    "id": "7153-CO",
+    "name": "Serengeti Stretch Utility Cargos",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "98% cotton 2% spandex 2/1 twill 215g/m² >Stretch for extra comfort\nZip & button closure at front\nMock slant chino pockets\nSide utility patch pockets with button closure\nBack welt pockets with button closure\nDouble needle side seam topstitch\nStretch fabric for added comfort\nEnzyme washed and pre-shrunk",
+    "image": ""
+  },
+  {
+    "id": "7655-DE",
+    "name": "Nguni Women’s Slim Fit Stretch Jeans",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "73% cotton 25% polyester 2% spandex denim 10oz >5 Pocket styling\nDouble needle front rise, seat and inleg\nBrass rivets and bar-tacks on stress points\nRiveted brass button closure\nBrass zip fly\nBack patch pockets with profile stitch design\nDark Wash\nStretch for added comfort",
+    "image": ""
+  },
+  {
+    "id": "8483A-CO",
+    "name": "Salty Womens T-Shirt Wired Kudu",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8483B-CO",
+    "name": "Salty Womens T-Shirt Mrs Meerkat",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8483C-CO",
+    "name": "Salty Womens T-Shirt Floral Skull",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8483D-CO",
+    "name": "Salty Womens T-Shirt Wild Protea",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8483E-CO",
+    "name": "Salty Womens T-Shirt Floral Nguni",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8483F-CO",
+    "name": "Salty Womens T-Shirt Wildflower",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8483G-CO",
+    "name": "Salty Womens T-Shirt Kudu Art",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8483H-CO",
+    "name": "Salty Womens T-Shirt Sunbird",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8483I-CO",
+    "name": "Salty Womens T-Shirt Kudu Signature",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "5587-CO",
+    "name": "Dassie Kids Bush Shirt",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% cotton 2/1 fine twill 140 g/m² >OEKO-TEX® STANDARD 100 Certified >Classic soft fused collar\nChest pockets with box pleat and velcro flaps\nPockets attached with double needle\nMock cuffs\nMock horn buttons\nRounded shirt tail\nSoft-washed and pre-shrunk",
+    "image": ""
+  },
+  {
+    "id": "8194.0",
+    "name": "Meerkat Kids Two Tone Bush Shirt",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% cotton 2/1 fine twill 140 g/m² >OEKO-TEX® STANDARD 100 Certified >Classic soft fused collar\nContrast front and back yokes\nChest pockets with velcro flap closures and box pleats\nPen division on left chest pocket\nDouble needle topstitched throughout\nMock cuffs\nMock horn buttons\nRounded shirt tail",
+    "image": ""
+  },
+  {
+    "id": "8174.0",
+    "name": "Jakkals Kids Kortbroek",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% brushed cotton canvas 260 g/m² >Fused front waistband with button closure\nHalf elasticated back\nShort inleg\nSide slant pockets\nMetal zip fly\nDouble cargo pockets with Velcro flap closures\nBack jet pockets with Velcro flap closure\nPockets attached with double needle\nMock horn buttons\nDouble needle stitched seams\nStress points bar-tacked\nSoft-washed and pre-shrunk",
+    "image": ""
+  },
+  {
+    "id": "8484A-CO",
+    "name": "Salty Boys T-Shirt Meerkat Junior",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8484B-CO",
+    "name": "Salty Boys T-Shirt Mielies",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8484C-CO",
+    "name": "Salty Boys T-Shirt Gazelle",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8484D-CO",
+    "name": "Salty Boys T-Shirt Salty Est 1957",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8484E-CO",
+    "name": "Salty Boys T-Shirt Wildebeest",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8484F-CO",
+    "name": "Salty Boys T-Shirt Tractor",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8485A-CO",
+    "name": "Salty Girls T-Shirt Springbokkie",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8485B-CO",
+    "name": "Salty Girls T-Shirt Meerkat Wildflower",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8485C-CO",
+    "name": "Salty Girls T-Shirt Salty Girl",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8485D-CO",
+    "name": "Salty Girls T-Shirt Floral Nguni",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8485E-CO",
+    "name": "Salty Girls T-Shirt Wildflower",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "8485F-CO",
+    "name": "Salty Girls T-Shirt Protea",
+    "category": "leisure",
+    "supplier": "SALTY",
+    "desc": "100% Ringspun Cotton >Unique printed lightweight graphic t-shirt\nRibbed crew neck\nSoft handle\nShort sleeve",
+    "image": ""
+  },
+  {
+    "id": "9191-LE",
+    "name": "Olifant Suede Leather Hat",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "100% Suede Leather >100% soft, high quality suede Leather with flyband\nBrown-donkey colour\nUnisex design",
+    "image": ""
+  },
+  {
+    "id": "9193-LE",
+    "name": "Buffel Full Grain Leather Hat",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "100% Leather >Made from 100% high quality full grain leather\nBraid detail\nBrown colour\nUnisex design",
+    "image": ""
+  },
+  {
+    "id": "9196-LE",
+    "name": "Wildebees Leather Hat",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "100% Leather >Made from 100% wildebeest leather with oilskin belt detail\nSoft feel and light weight\nBrown colour\nUnisex design",
+    "image": ""
+  },
+  {
+    "id": "9198-LE",
+    "name": "Kudu Suede Leather Hat",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "100% Suede Leather >100% soft, high quality suede Leather with contrast leather belt\nSand colour\nUnisex design",
+    "image": ""
+  },
+  {
+    "id": "9199-LE",
+    "name": "Gemsbok Leather Hat",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "100% Leather >100% cotton mesh >Made from 100% wildebeest leather with braid detail\nMesh panel all around to ensure optimal airflow\nSoft feel and light weight\nBrown colour\nUnisex design",
+    "image": ""
+  },
+  {
+    "id": "8630-PO",
+    "name": "Morocco Sun Hat",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "Unisex Fedora fit – Suits both women & men >UPF50+ Certified UV Protection\nCANSA SunSmart Choice Endorsement\nSpot clean. Handle with care\nCrush-resistant\nDrawstring size adjustment for the perfect fit\nBreathable",
+    "image": ""
+  },
+  {
+    "id": "8636-PO",
+    "name": "Marrakesh Sun Hat",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "Unisex Fedora fit – Suits both women & men >UPF50+ Certified UV Protection\nCANSA SunSmart Choice Endorsement\nSpot clean. Handle with care\nCrush-resistant\nDrawstring size adjustment for the perfect fit\nBreathable",
+    "image": ""
+  },
+  {
+    "id": "8637-PO",
+    "name": "Kilimanjaro Sun Hat",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "100% Wheat Polyester Braid with Fawn, Bottle Green and Ivory ribbon band >UPF50+ Certified UV Protection\nCANSA SunSmart Choice Endorsement\nSpot clean. Handle with care\nCrush-resistant\nDrawstring size adjustment for the perfect fit\nBreathable",
+    "image": ""
+  },
+  {
+    "id": "8635-PO",
+    "name": "Zanzibar Sun Hat",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "100% Beige/Natural Polyester Braid with brown cord and wooden beads >UPF50+ Certified UV Protection\nCANSA SunSmart Choice Endorsement\nSpot clean. Handle with care\nCrush-resistant\nDrawstring size adjustment for the perfect fit\nBreathable",
+    "image": ""
+  },
+  {
+    "id": "8632-PO",
+    "name": "Namaqua Sun Hat",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "100% Caramel Paper Fibre with olive cord and brass beads >UPF50+ Certified UV Protection\nCANSA SunSmart Choice Endorsement\nSpot clean. Handle with care\nCrush-resistant\nDrawstring size adjustment for the perfect fit\nBreathable",
+    "image": ""
+  },
+  {
+    "id": "8631-PO",
+    "name": "Bazaruto Sun Hat",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "100% Grey/White Polyester Braid with speckled cord and wooden beads >UPF50+ Certified UV Protection\nCANSA SunSmart Choice Endorsement\nSpot clean. Handle with care\nCrush-resistant\nDrawstring size adjustment for the perfect fit\nBreathable",
+    "image": ""
+  },
+  {
+    "id": "9169-CO",
+    "name": "Rundu Bush Hat",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "100% cotton 2/1 fine twill 140 g/m² >Ideal for sun protection\nDouble layer brim\nBrass eyelets for ventilation\nSide fold option with press stud fastners\nLight Weight",
+    "image": ""
+  },
+  {
+    "id": "8201-CO",
+    "name": "Ondangwa Bush Hat",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "100% cotton 2/1 fine twill 140 g/m² >Ideal for sun protection\nDouble layer brim\nContrast band\nBrass eyelets for ventilation\nSide fold option with press stud fastners\nLight Weight",
+    "image": ""
+  },
+  {
+    "id": "5023-PO",
+    "name": "Bokong Rib Knit Beanie",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "54% Rayon, 30% Polyester, 16% Nylon >Super Soft feel\nRib Knit Pattern\nTurn up cuff",
+    "image": ""
+  },
+  {
+    "id": "9176-CO",
+    "name": "Kalagadi Bush Hat",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "100% Cotton >Pigment Dyed Cotton\nPigment Washed Dyed Cotton Twill\nElastic String and Toggle",
+    "image": ""
+  },
+  {
+    "id": "9180.0",
+    "name": "Dorptoe Flat Cap",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "100% Cotton >100% Cotton Pigtail Dyed\nPre-curved Peak\nPigment Dyed Washed Cotton with Elastic Closed Back",
+    "image": ""
+  },
+  {
+    "id": "9172-CO",
+    "name": "Equator Sun Cap",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "100% Cotton >6 Panel cotton twill cap\n4 Needle stitch twill sweatband\nSalty logo embroidered on the front\nEmbroidered self colour eyelets\nPre-curved peak\nMetal closure",
+    "image": ""
+  },
+  {
+    "id": "8487A",
+    "name": "Salty Outdoor Adventure Cap",
+    "category": "headwear",
+    "supplier": "SALTY",
+    "desc": "100% Cotton >100% Cotton Oilskin\n6 Panel Un-Structured\nPre-Curved Peak\nSelf-Fabric Brass Buckle",
+    "image": ""
+  },
+  {
+    "id": "20/030/OG and 20/070/OG",
+    "name": "65/35 PREMIUM ACID RESISTANT JACKET & TROUSERS",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "240GSM Fabric, Comfy Sizing, Fully Triple Stitched, Double Pockets, Chunky YKK Zip for Easy Use",
+    "image": ""
+  },
+  {
+    "id": "11/070 and 11/030",
+    "name": "65/35 PREMIUM JACKET & TROUSERS",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Sold as separates. Comfy Sizing, Ruler pocket on trousers for utility, Fully Triple Stitched",
+    "image": ""
+  },
+  {
+    "id": "11/070-1",
+    "name": "65/35 PREMIUM JACKET & TROUSERS WITH REFLECTIVE TAPE",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Comfy Sizing, Ruler pocket on trousers for utility, Fully Triple Stitched",
+    "image": ""
+  },
+  {
+    "id": "11/030/NV/GY & 11/030/OG/KH & 11/070",
+    "name": "65/35 PREMIUM TWO-TONE JACKET & TROUSERS",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Comfy Sizing, Ruler pocket on trousers for utility, Fully Triple Stitched",
+    "image": ""
+  },
+  {
+    "id": "40/015",
+    "name": "80/20 BOILERSUIT",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Button up one piece boilersuit/overall for industrial use. Elasticated waist, no pockets with side slits",
+    "image": ""
+  },
+  {
+    "id": "40/016",
+    "name": "80/20 BOILERSUIT WITH TAPE",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Button up one piece boilersuit/overall for industrial use. Elasticated waist no pockets with side slits. Industrial reflective tape on arms, legs, chest and back",
+    "image": ""
+  },
+  {
+    "id": "69/014",
+    "name": "80/20 STANDARD ACID RESISTANT SUIT",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "205GSM Fabric, Vulcan Comfy Fit, YKK Zip",
+    "image": ""
+  },
+  {
+    "id": "41/010",
+    "name": "80/20 STANDARD WORKSUIT",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "200gsm Fabric, Vulcan Comfy Sizing, Pen Pocket and press stud on jacket, triple stitching inside, Premium YKK zip",
+    "image": ""
+  },
+  {
+    "id": "41/010/REF",
+    "name": "80/20 STANDARD WORKSUIT WITH REFLECTIVE TAPE",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "200gsm Fabric, Vulcan Comfy Sizing, Pen Pocket and press stud on jacket, triple stitching inside, Premium YKK zip, lime/silver reflective tape arms and legs",
+    "image": ""
+  },
+  {
+    "id": "42/010",
+    "name": "80/20 SUPERIOR HEAVY WORKSUIT",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Large Comfy Sizing, Premium YKK Zip, Triple stitched on shoulders, inside leg and back rise trousers",
+    "image": ""
+  },
+  {
+    "id": "51/070",
+    "name": "BELOW ZERO DOUBLE LINED JACKET & TROUSERS",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Water resistant outer with premium cotton inner. YKK premium zip. Perfect for heavy duty use in warehouse, mining, cold storage applications. Suitable to -20degC",
+    "image": ""
+  },
+  {
+    "id": "51/060",
+    "name": "BELOW ZERO SINGLE LINED JACKET & TROUSERS",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Water resistant outer with premium cotton inner. YKK premium zip. Perfect for heavy duty use in warehouse, mining, cold storage applications. Suitable to -5degC. Available with or without reflective tape.",
+    "image": ""
+  },
+  {
+    "id": "51/060-1",
+    "name": "HI VIZ TWO TONE FREEZER JACKET",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "HI Viz two tone freezer jacket.",
+    "image": ""
+  },
+  {
+    "id": "30/090",
+    "name": "Bunny Jacket",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Fleece Lined, Zip off sleeves",
+    "image": ""
+  },
+  {
+    "id": "30/090-1",
+    "name": "Bunny Jacket (Colours)",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Fleece Lined, Zip off sleeves",
+    "image": ""
+  },
+  {
+    "id": "30/040/COM/SHT & 30/070/COM/TRS",
+    "name": "COMBAT SHIRT & TROUSERS",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Premium Heavyweight Polycotton Fabric, Wide Belt Loops Comfort with Webbelt, Button Up",
+    "image": ""
+  },
+  {
+    "id": "90/060/NV",
+    "name": "D59 SABS Flame and Acid Jacket & Trousers",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "SABS SANS434 Approved Sasol Spec Flame Retardant Acid Resistant Trouser, Da Gama 1387-4 SABS Local Fabric. Can be sold as a suit or sold as separates.",
+    "image": ""
+  },
+  {
+    "id": "90/030/NV/LD/4XL",
+    "name": "LADIES D59 SABS FLAME AND ACID JACKET & TROUSERS",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "SABS SANS434 Approved Sasol Spec Flame Retardant Acid Resistant Trouser, Da Gama 1387-4 SABS Local Fabric. Can be sold as a suit or sold as separates.",
+    "image": ""
+  },
+  {
+    "id": "41/090/NV",
+    "name": "D59 Blaze Flame and Acid Jacket & Trousers",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Sasol Spec Flame Retardant Acid Resistant Jacket & Trouser. Can be sold as a suit or as separates.",
+    "image": ""
+  },
+  {
+    "id": "12/021/ESK",
+    "name": "D59 BOILERSUIT",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Eskom Branded.",
+    "image": ""
+  },
+  {
+    "id": "12/072/ESK & 12/031/ESK",
+    "name": "D59 FLAME ACID JACKET & TROUSERS",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Eskom Branded.",
+    "image": ""
+  },
+  {
+    "id": "12/030/ESK&12/010/ESK",
+    "name": "D59 FLAME OPERATING JACKET & TROUSERS",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Eskom Branded.",
+    "image": ""
+  },
+  {
+    "id": "12/072/ESK & 12/031/ESK-1",
+    "name": "D59 FLAME THERMAL HOODED JACKET",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Eskom Branded.",
+    "image": ""
+  },
+  {
+    "id": "12/032/ESK & 12/073/ESK",
+    "name": "D59 CLEAN CONDITION JACKET & TROUSERS",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Eskom Branded.",
+    "image": ""
+  },
+  {
+    "id": "12/041/ESK & MADE TO ORDER",
+    "name": "MENS LONG & SHORT SLEEVE ESKOM SHIRT",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Eskom Branded, Flame Retardant",
+    "image": ""
+  },
+  {
+    "id": "90/060/NV/WINT",
+    "name": "D59 Flame and Acid Winter Jacket",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "SABS SANS434 Approved Sasol Spec Flame Retardant Acid Resistant Thermal Jacket, Da Gama 1387-4 SABS Local Fabric",
+    "image": ""
+  },
+  {
+    "id": "90/020/NV",
+    "name": "D59 SABS Flame and Acid Boilersuit",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "SABS SANS434 Approved Sasol Spec Flame Retardant Acid Resistant Boilersuit, Da Gama 1387-4 SABS Local Fabric",
+    "image": ""
+  },
+  {
+    "id": "20/070/NV/ARC",
+    "name": "15 Cal Arc Suit",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "12.4 Cal Rated Du Pont Jacket & Trouser. Sold as a suit or as separates.",
+    "image": ""
+  },
+  {
+    "id": "20/070/FG",
+    "name": "D59 Flame Fern Green Suit With Tape",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "D59 Premium Flame Fabric, Industrial Hi Viz Reflective tape, Fully Triple Stitched, SANS434 Comfy Fit, Premium YKK Brass Zip for Flame. Can be sold as a suit or as separates.",
+    "image": ""
+  },
+  {
+    "id": "12/020/ESK",
+    "name": "D59 FLAME OPERATING BOILERSUIT",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Eskom Branded",
+    "image": ""
+  },
+  {
+    "id": "12/060/ESK",
+    "name": "D59 FLAME THERMAL JACKET",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Eskom Branded",
+    "image": ""
+  },
+  {
+    "id": "12/071/ESK",
+    "name": "D59 LADIES TROUSERS",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Eskom Branded",
+    "image": ""
+  },
+  {
+    "id": "44/017/IB",
+    "name": "STANDARD DENIM SUIT",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Standard Denim Budget Suit, Triple Stitched Inside Leg and back rise on Trousers",
+    "image": ""
+  },
+  {
+    "id": "44/017/IB-1",
+    "name": "VULCAN GRAFTER JEANS",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Standard Denim Jeans.",
+    "image": ""
+  },
+  {
+    "id": "43/010/REF-1",
+    "name": "ECONO WORKSUIT",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Triple Stitched Back Rise and Inside Leg, 195GSM Polycotton Fabric.",
+    "image": ""
+  },
+  {
+    "id": "43/010/REF",
+    "name": "ECONO WORKSUIT WITH TAPE",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Triple Stitched Back Rise and Inside Leg, 195GSM Polycotton Fabric, Reflective Tape on Arms and Legs",
+    "image": ""
+  },
+  {
+    "id": "GOLF/SHIRT",
+    "name": "VULCAN GOLFERS",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Breathable Stretch Fabric, Round Neck Style, Comfort Fit",
+    "image": ""
+  },
+  {
+    "id": "20/12-2",
+    "name": "J54 SABS PREMIUM SUIT",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Fully triple stitched, Conforms to SANS 434 sizing, YKK Chunky Vislon Zip. Double Utility Pockets on Jacket. Available with or without reflective tape. With or without reflective tape.",
+    "image": ""
+  },
+  {
+    "id": "20/12",
+    "name": "J54 SABS PREMIUM SUIT WITH REFLECTIVE TAPE",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Fully triple stitched, Conforms to SANS 434 sizing, YKK Chunky Vislon Zip. Double Utility Pockets on Jacket. Available with or without reflective tape.",
+    "image": ""
+  },
+  {
+    "id": "20/12-1",
+    "name": "J54 CARGO PANTS WITH REFLECTIVE TAPE",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "J54 Cargo pants. 100% Cotton.",
+    "image": ""
+  },
+  {
+    "id": "12/040/ESK",
+    "name": "LADIES LONG SLEEVE ESKOM SHIRT",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "20/070/IB",
+    "name": "PREMIUM SOFT FEEL 12oz DENIM JACKET & TROUSERS",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Premium 12oz Soft Feel Industrial Washed Fabric, SANS 434 SABS Sizing, Fully Triple Stitched, Ruler Pocket. Sold as a suit or can be sold as separates.",
+    "image": ""
+  },
+  {
+    "id": "20/040-1",
+    "name": "SASOL MINING BOILERSUITS",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Oil & Gas Boilersuit, Utility Spec",
+    "image": ""
+  },
+  {
+    "id": "30/040",
+    "name": "Softshell Jacket",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Fleece Lined, Zip off sleeves",
+    "image": ""
+  },
+  {
+    "id": "30/050/LJ/",
+    "name": "THERMAL UNDERWEAR",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "TSH/COL",
+    "name": "VULCAN T-SHIRTS",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "Breathable Stretch Fabric, Round Neck Style, Comfort Fit",
+    "image": ""
+  },
+  {
+    "id": "62/010",
+    "name": "80/20 PYJAMA SUIT",
+    "category": "ppe",
+    "supplier": "VULCAN",
+    "desc": "Built for Food & Cleaning Industry Use, 205GSM premium fabric, Drawstring Trousers",
+    "image": ""
+  },
+  {
+    "id": "10/010/WH",
+    "name": "FOOD SAFETY PRESS STUD DUST COAT",
+    "category": "ppe",
+    "supplier": "VULCAN",
+    "desc": "Premium Dustcoat designed for warehouse, maintenance and food packaging applications",
+    "image": ""
+  },
+  {
+    "id": "40/014",
+    "name": "STANDARD BUTTON UP DUST COAT",
+    "category": "ppe",
+    "supplier": "VULCAN",
+    "desc": "Premium Dustcoat designed for warehouse, maintenance and food packaging applications",
+    "image": ""
+  },
+  {
+    "id": "41/030",
+    "name": "LADIES CANTEEN SHORT SLEEVE",
+    "category": "ppe",
+    "supplier": "VULCAN",
+    "desc": "True to size for comfort, Button Up",
+    "image": ""
+  },
+  {
+    "id": "41/031/LS",
+    "name": "LADIES WRAPAROUND LONG SLEEVE",
+    "category": "ppe",
+    "supplier": "VULCAN",
+    "desc": "True to size for comfort",
+    "image": ""
+  },
+  {
+    "id": "41/031",
+    "name": "LADIES WRAPAROUND SHORT SLEEVE",
+    "category": "ppe",
+    "supplier": "VULCAN",
+    "desc": "True to size for comfort",
+    "image": ""
+  },
+  {
+    "id": "70/VV/BR",
+    "name": "VULCAN VELLIE",
+    "category": "footwear",
+    "supplier": "VULCAN",
+    "desc": "Made in South Africa",
+    "image": ""
+  },
+  {
+    "id": "70/014/BL",
+    "name": "SHOVA BLACK GUMBOOT",
+    "category": "footwear",
+    "supplier": "VULCAN",
+    "desc": "Shova General Purpose Gumboot",
+    "image": ""
+  },
+  {
+    "id": "70/013/BL",
+    "name": "SHOVA CHELSEA GUMBOOT",
+    "category": "footwear",
+    "supplier": "VULCAN",
+    "desc": "Shova General Purpose Ankle Gumboot",
+    "image": ""
+  },
+  {
+    "id": "70/013/BL-1",
+    "name": "SHOVA WHITE GUMBOOT",
+    "category": "footwear",
+    "supplier": "VULCAN",
+    "desc": "Shova General Purpose Ankle Gumboot",
+    "image": ""
+  },
+  {
+    "id": "GL/CRAFT",
+    "name": "CRAFTSMAN",
+    "category": "ppe",
+    "supplier": "VULCAN",
+    "desc": "Gloves",
+    "image": ""
+  },
+  {
+    "id": "V-CRAY",
+    "name": "CRAYFISH",
+    "category": "ppe",
+    "supplier": "VULCAN",
+    "desc": "Gloves",
+    "image": ""
+  },
+  {
+    "id": "V-COT-DD",
+    "name": "DOUBLE DOTTED COTTON",
+    "category": "ppe",
+    "supplier": "VULCAN",
+    "desc": "Gloves",
+    "image": ""
+  },
+  {
+    "id": "GL/FLASH",
+    "name": "FLASH",
+    "category": "ppe",
+    "supplier": "VULCAN",
+    "desc": "Gloves",
+    "image": ""
+  },
+  {
+    "id": "V-GRIP",
+    "name": "V-GRIP",
+    "category": "ppe",
+    "supplier": "VULCAN",
+    "desc": "Gloves",
+    "image": ""
+  },
+  {
+    "id": "100/060/HIVIZ",
+    "name": "65/35 HI VIZ TWO TONE WORKSUIT",
+    "category": "hivis",
+    "supplier": "VULCAN",
+    "desc": "Comfy Fit, Premium YKK Chunky Zip for Easy Handling, Heavyweight Hi Viz Fabric, Fully Triple Stitched. Can be sold as a suit or sold as separates.",
+    "image": ""
+  },
+  {
+    "id": "30/050-1",
+    "name": "HI VIZ 100% COTTON LADIES VENTED WORKSHIRT",
+    "category": "hivis",
+    "supplier": "VULCAN",
+    "desc": "Lightweight Premium 100% Fabric, Premium comfy fit, Industrial wash reflective Tape, Vented on back for breathability in hot conditions",
+    "image": ""
+  },
+  {
+    "id": "30/050",
+    "name": "HI VIZ 100% COTTON VENTED WORKSHIRT",
+    "category": "hivis",
+    "supplier": "VULCAN",
+    "desc": "Lightweight Premium 100% Fabric, Premium comfy fit, Industrial wash reflective Tape, Vented on back for breathability in hot conditions",
+    "image": ""
+  },
+  {
+    "id": "30/050/SS",
+    "name": "HI VIZ 100% COTTON VENTED SHORT SLEEVE WORKSHIRT",
+    "category": "hivis",
+    "supplier": "VULCAN",
+    "desc": "Short Sleeve option in lightweight Premium 100% Fabric, Premium comfy fit, Industrial wash reflective Tape, Vented on back for breathability in hot conditions",
+    "image": ""
+  },
+  {
+    "id": "30/061/BRO",
+    "name": "BRONCO SHORTS",
+    "category": "leisure",
+    "supplier": "VULCAN",
+    "desc": "100% Cotton Hard Wearing Shorts",
+    "image": ""
+  },
+  {
+    "id": "30/061/ROG",
+    "name": "ROGUE 11 CARGO SHORTS",
+    "category": "leisure",
+    "supplier": "VULCAN",
+    "desc": "11cm Cargo Shorts.",
+    "image": ""
+  },
+  {
+    "id": "30/061/CAR",
+    "name": "TACTIC 14 CARGO SHORTS",
+    "category": "leisure",
+    "supplier": "VULCAN",
+    "desc": "14cm Utility Shorts.",
+    "image": ""
+  },
+  {
+    "id": "30/060/CAR",
+    "name": "MENS ROGUE CARGO TROUSERS",
+    "category": "leisure",
+    "supplier": "VULCAN",
+    "desc": "Premium Ripstop Utility Cargo Trousers",
+    "image": ""
+  },
+  {
+    "id": "30/030/SS",
+    "name": "MENS BUSH SHIRT SHORT SLEEVE",
+    "category": "leisure",
+    "supplier": "VULCAN",
+    "desc": "Premium Ripstop Bush Shirt, Button up.",
+    "image": ""
+  },
+  {
+    "id": "30/030/LS",
+    "name": "MENS COUNTRY LONG SLEEVE SHIRT",
+    "category": "leisure",
+    "supplier": "VULCAN",
+    "desc": "Premium Ripstop Long Sleeve Shirt, Button up",
+    "image": ""
+  },
+  {
+    "id": "30/032",
+    "name": "WINTER BUSH JACKET",
+    "category": "leisure",
+    "supplier": "VULCAN",
+    "desc": "Thermal Winter Bush Jacket",
+    "image": ""
+  },
+  {
+    "id": "30/060/CAR/LD",
+    "name": "LADIES BUSH CARGO PANTS",
+    "category": "leisure",
+    "supplier": "VULCAN",
+    "desc": "Premium Ripstop Bush Shirt, Button up",
+    "image": ""
+  },
+  {
+    "id": "30/060/CAR/LD-1",
+    "name": "MENS TAMBOTI SHIRT",
+    "category": "leisure",
+    "supplier": "VULCAN",
+    "desc": "This premium outdoor shirt is vented to keep you cool all day long.",
+    "image": ""
+  },
+  {
+    "id": "30/030/SS/LD",
+    "name": "LADIES BUSH SHIRT SHORT SLEEVE",
+    "category": "leisure",
+    "supplier": "VULCAN",
+    "desc": "Premium Ripstop Bush Shirt, Button up",
+    "image": ""
+  },
+  {
+    "id": "PPE/RAIN",
+    "name": "NAVY RAINSUIT",
+    "category": "workwear",
+    "supplier": "VULCAN",
+    "desc": "PVC Outer lining, Polyester Inner Linning, 230gsm Fabric, Heat Sealed Seams, Concealed Zip with Press Stud Closure, Bottom Pockets on Jacket Covered Elasticated Cuffs, Open Mesh at Back on Shoulders for Breathability",
+    "image": ""
+  },
+  {
+    "id": "8671-CO",
+    "name": "D59 Reflective Boiler Suit F/R SABS Specification",
+    "category": "boiler",
+    "supplier": "JAVLIN",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "7120-J54",
+    "name": "J54 Reflective Two Tone Boiler Suit",
+    "category": "boiler",
+    "supplier": "JAVLIN",
+    "desc": "High-vis, two-tone, reflective strips, durable, comfortable, low-light optimized.",
+    "image": ""
+  },
+  {
+    "id": "4811-D59",
+    "name": "D59 Reflective Boiler Suit SABS Specification",
+    "category": "boiler",
+    "supplier": "JAVLIN",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "4022-DE",
+    "name": "Stone Washed Denim Conti Suit SABS Specification",
+    "category": "conti",
+    "supplier": "JAVLIN",
+    "desc": "Chrome leather, candy stripe, reinforced detailing, firm grip, flexible, industrial grade, durable.",
+    "image": ""
+  },
+  {
+    "id": "4022-J54",
+    "name": "J54 Conti Suit SABS Specification",
+    "category": "conti",
+    "supplier": "JAVLIN",
+    "desc": "SABS spec, 100% cotton, industrial grade, breathable, durable, protective.",
+    "image": ""
+  },
+  {
+    "id": "4811-J54",
+    "name": "J54 Reflective Boiler Suit SABS Specification",
+    "category": "boiler",
+    "supplier": "JAVLIN",
+    "desc": "SABS spec, reflective, high-vis, durable, industrial grade, low-light optimized, protective.",
+    "image": ""
+  },
+  {
+    "id": "4014-PC",
+    "name": "The Grafter Polycotton Conti Suit – SABS Specification",
+    "category": "conti",
+    "supplier": "JAVLIN",
+    "desc": "SABS spec, polycotton blend, industrial grade, durable, protective, practical fit.",
+    "image": ""
+  },
+  {
+    "id": "4751-PC",
+    "name": "Two Tone Polycotton Conti Suit",
+    "category": "conti",
+    "supplier": "JAVLIN",
+    "desc": "Two-tone, polycotton blend, professional look, industrial grade, durable, comfortable, protective.",
+    "image": ""
+  },
+  {
+    "id": "3485-J54",
+    "name": "Premium J54 Boiler Suit SABS Specification",
+    "category": "boiler",
+    "supplier": "JAVLIN",
+    "desc": "SABS spec, premium J54 fabric, industrial grade, high mobility, protective, durable.",
+    "image": ""
+  },
+  {
+    "id": "5079-J54",
+    "name": "J54 Conti Trousers SABS Specification",
+    "category": "conti",
+    "supplier": "JAVLIN",
+    "desc": "SABS spec, 100% cotton, industrial grade, breathable, durable, protective.",
+    "image": ""
+  },
+  {
+    "id": "6992-J54",
+    "name": "Women’s J54 Conti Trousers",
+    "category": "conti",
+    "supplier": "JAVLIN",
+    "desc": "Women's fit, J54 fabric, industrial grade, flexible, durable, professional fit, protective.",
+    "image": ""
+  },
+  {
+    "id": "6993-J54",
+    "name": "Women’s J54 Conti Jacket",
+    "category": "conti",
+    "supplier": "JAVLIN",
+    "desc": "Women's fit, J54 fabric, industrial grade, practical fit, professional appearance, protective, durable.",
+    "image": ""
+  },
+  {
+    "id": "3852-PC",
+    "name": "Polycotton Boiler Suit SABS Specification",
+    "category": "boiler",
+    "supplier": "JAVLIN",
+    "desc": "SABS spec, polycotton blend, breathable, durable, hazard protection (dirt/grease), industrial grade.",
+    "image": ""
+  },
+  {
+    "id": "6281-DE",
+    "name": "Heavy Duty Denim Conti Jacket SABS Specification",
+    "category": "conti",
+    "supplier": "JAVLIN",
+    "desc": "This Heavy Duty Denim Conti Jacket meets SABS specifications, providing durability and comfort for tough work environments. Designed for industrial and construction settings, it offers a professional appearance and functional protection.",
+    "image": ""
+  },
+  {
+    "id": "6282-DE",
+    "name": "Heavy Duty Denim Conti Trousers SABS Specification",
+    "category": "conti",
+    "supplier": "JAVLIN",
+    "desc": "The Heavy Duty Denim Conti Trousers meet SABS specifications for strength and durability. Ideal for industrial or construction work, these trousers provide comfort, protection, and long-lasting wear in demanding conditions.",
+    "image": ""
+  },
+  {
+    "id": "3390-J54",
+    "name": "J54 Dust Coat",
+    "category": "hospitality",
+    "supplier": "JAVLIN",
+    "desc": "J54 fabric, industrial grade, dust/debris protection, durable, hygienic, full coverage.",
+    "image": ""
+  },
+  {
+    "id": "5079-DE",
+    "name": "Stone Washed Denim Conti Trousers SABS Specification",
+    "category": "conti",
+    "supplier": "JAVLIN",
+    "desc": "SABS spec, stone-washed denim, industrial grade, durable, stylish, protective, all-day comfort.",
+    "image": ""
+  },
+  {
+    "id": "5077-PC-AR",
+    "name": "Polycotton Acid Resistant Conti Trousers",
+    "category": "conti",
+    "supplier": "JAVLIN",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "5077-PC",
+    "name": "The Grafter Polycotton Conti Trousers – SABS Specification",
+    "category": "conti",
+    "supplier": "JAVLIN",
+    "desc": "SABS spec, polycotton blend, industrial grade, flexible, professional appearance, durable, protective.",
+    "image": ""
+  },
+  {
+    "id": "3390-PC",
+    "name": "Polycotton Dust Coat",
+    "category": "hospitality",
+    "supplier": "JAVLIN",
+    "desc": "Polycotton blend, breathable, industrial/workshop grade, debris protection, durable, clothing shield.",
+    "image": ""
+  },
+  {
+    "id": "8241-PC",
+    "name": "Hi-Vis Two Tone Bomber Jacket",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "7723-SSH",
+    "name": "Hi Vis Two Tone Utility Softshell Jacket",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "High-visibility (Hi-Vis), two-tone design, softshell fabric, water-resistant, reflective safety details, durable, outdoor grade.",
+    "image": ""
+  },
+  {
+    "id": "5275-PC",
+    "name": "Hi-Vis Fleece Lined Bomber Jacket",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "High-visibility (Hi-Vis), fleece-lined, water-resistant, zip-off sleeves, reflective detailing, thermal protection, durable.",
+    "image": ""
+  },
+  {
+    "id": "6403-J54",
+    "name": "Women’s J54 Reflective Boiler Suit",
+    "category": "boiler",
+    "supplier": "JAVLIN",
+    "desc": "Women's fit, J54 fabric, high-visibility (reflective strips), industrial grade, durable, protective, safety-focused.",
+    "image": ""
+  },
+  {
+    "id": "4641-PC",
+    "name": "Hi-Vis Two Tone Conti Suit SABS Specification",
+    "category": "conti",
+    "supplier": "JAVLIN",
+    "desc": "SABS spec, high-visibility (Hi-Vis), two-tone design, industrial grade, reflective safety details, durable, low-light protection.",
+    "image": ""
+  },
+  {
+    "id": "5538-PO",
+    "name": "Hi-Vis Two Tone Parka Jacket",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "High-visibility (Hi-Vis), two-tone design, thermal insulation, reflective strips, durable outer shell, outdoor/cold-weather grade.",
+    "image": ""
+  },
+  {
+    "id": "7591-CO",
+    "name": "Hi-Vis Women’s Two Tone Vented Long Sleeve Work Shirt",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "Women's fit, high-visibility (Hi-Vis), two-tone design, vented for breathability, long-sleeve, reflective safety details, industrial grade.",
+    "image": ""
+  },
+  {
+    "id": "7914-SSH",
+    "name": "Hi Vis Technical Softshell Jacket",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "High-visibility (Hi-Vis), technical softshell, water-resistant, reflective safety details, thermal protection, flexible, weather-resistant.",
+    "image": ""
+  },
+  {
+    "id": "7590-CO",
+    "name": "Hi-Vis Women’s Two Tone Vented Short Sleeve Work Shirt",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "Women's fit, high-visibility (Hi-Vis), two-tone design, vented for breathability, short-sleeve, reflective accents, tailored for outdoor work.",
+    "image": ""
+  },
+  {
+    "id": "5678-CO",
+    "name": "Hi-Vis Vented Long Sleeve Work Shirt",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "High-visibility (Hi-Vis), vented for breathability, long-sleeve, outdoor grade, cooling design, safety-focused.",
+    "image": ""
+  },
+  {
+    "id": "5169-CO",
+    "name": "Hi-Vis Two Tone Vented Long Sleeve Work Shirt",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "High-visibility (Hi-Vis), two-tone design, vented for breathability, long-sleeve, reflective accents, warm-weather optimized.",
+    "image": ""
+  },
+  {
+    "id": "4738-CO",
+    "name": "Hi-Vis Two Tone Long Sleeve Work Shirt",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "High-visibility (Hi-Vis), two-tone design, long-sleeve, industrial grade, reflective safety details, durable, flexible comfort.",
+    "image": ""
+  },
+  {
+    "id": "4692-J54",
+    "name": "Hi-Vis Cargos",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "High-visibility (Hi-Vis), cargo style, multiple utility pockets, reflective safety strips, industrial grade, durable.",
+    "image": ""
+  },
+  {
+    "id": "6137-CO",
+    "name": "Hi-Vis Two Tone Vented Short Sleeve Work Shirt",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "High-visibility (Hi-Vis), two-tone design, vented for breathability, short-sleeve, reflective strips, warm-climate optimized, safety-focused.",
+    "image": ""
+  },
+  {
+    "id": "6565-J54",
+    "name": "Women’s J54 ReflectiveTwo Tone Boiler Suit",
+    "category": "boiler",
+    "supplier": "JAVLIN",
+    "desc": "Women's fit, J54 fabric, high-visibility (reflective strips), two-tone design, mining grade, protective, professional appearance.",
+    "image": ""
+  },
+  {
+    "id": "4007-J54",
+    "name": "Paramount J54 Reflective Conti Suit",
+    "category": "conti",
+    "supplier": "JAVLIN",
+    "desc": "J54 fabric, high-visibility (reflective strips), industrial grade, durable, low-light protection, reliable safety.",
+    "image": ""
+  },
+  {
+    "id": "5080-D59",
+    "name": "D59 Reflective Conti Jacket SABS Specification",
+    "category": "conti",
+    "supplier": "JAVLIN",
+    "desc": "D59 fabric, SABS spec, fire-resistant, high-visibility (reflective), industrial grade, heavy-duty protection.",
+    "image": ""
+  },
+  {
+    "id": "5081-D59",
+    "name": "D59 Reflective Conti Trousers SABS Specification",
+    "category": "conti",
+    "supplier": "JAVLIN",
+    "desc": "D59 fabric, SABS spec, high-visibility (reflective), industrial grade, protective, safety-focused.",
+    "image": ""
+  },
+  {
+    "id": "5083-PC",
+    "name": "Hi-Vis Two Tone Conti Trousers SABS Specification",
+    "category": "conti",
+    "supplier": "JAVLIN",
+    "desc": "SABS spec, high-visibility (Hi-Vis), two-tone design, reflective safety strips, industrial grade, durable, day/night shift protection.",
+    "image": ""
+  },
+  {
+    "id": "7012-PO",
+    "name": "Hi-Vis Two Tone Reflective Golfer",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "High-visibility (Hi-Vis), two-tone design, golfer/polo style, breathable fabric, reflective safety details, outdoor grade, professional/stylish fit.",
+    "image": ""
+  },
+  {
+    "id": "7017-PO",
+    "name": "Women’s Hi-Vis Two Tone Golfer With Reflective Tape",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "Women's fit, high-visibility (Hi-Vis), two-tone design, golfer/polo style, reflective tape, low-light safety, breathable.",
+    "image": ""
+  },
+  {
+    "id": "7011-PO",
+    "name": "Hi-Vis Two Tone Golfer",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "High-visibility (Hi-Vis), two-tone design, golfer/polo style, fluorescent torso, breathable, durable, versatile (work/casual).",
+    "image": ""
+  },
+  {
+    "id": "6323.0",
+    "name": "Hi-Vis Reflective Traffic Jacket",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "High-visibility (Hi-Vis), traffic management/construction grade, reflective panels, zip-off sleeves (convertible), safety-focused, weather protection.",
+    "image": ""
+  },
+  {
+    "id": "9305.0",
+    "name": "End Of Range – Hi Vis Reflective Cross Over Bib",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "High-visibility (Hi-Vis), cross-over design, reflective safety strips, low-light optimized, construction/traffic grade, durable, comfortable.",
+    "image": ""
+  },
+  {
+    "id": "6354.0",
+    "name": "EN4 Hi-Vis Reflective Vest",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "9303.0",
+    "name": "EN4 Hi-Vis Reflective Vest EN 20471",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "EN 20471 compliant, high-visibility (Hi-Vis), reflective safety panels, hazardous environment grade, construction/roadside optimized.",
+    "image": ""
+  },
+  {
+    "id": "6355-Lime",
+    "name": "Hi-Vis Reflective Cross Over Bib",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "High-visibility (Hi-Vis), cross-over design, reflective strips, low-light safety, hazardous environment grade, comfortable.",
+    "image": ""
+  },
+  {
+    "id": "9300.0",
+    "name": "Hi-Vis Maxi Bib",
+    "category": "hivis",
+    "supplier": "JAVLIN",
+    "desc": "High-visibility (Hi-Vis), maxi bib style, reflective stripes, low-light optimized, roadwork/construction grade, safety-focused.",
+    "image": ""
+  },
+  {
+    "id": "4777D-D59-FA",
+    "name": "SABS Approved Flame Retardant & Acid Resistant Boiler Suit",
+    "category": "workwear",
+    "supplier": "JAVLIN",
+    "desc": "SABS approved, flame retardant, acid resistant, chemical protection, heavy-duty industrial grade, safety-focused, durable.",
+    "image": ""
+  },
+  {
+    "id": "4014-PC-AR",
+    "name": "The Grafter Polycotton Acid Resistant Conti Suit – SABS Specification.",
+    "category": "workwear",
+    "supplier": "JAVLIN",
+    "desc": "SABS spec, acid resistant, polycotton fabric, chemical protection, industrial grade, durable, performance-focused.",
+    "image": ""
+  },
+  {
+    "id": "6991-D59-FA",
+    "name": "Women’s Flame Retardant & Acid Resistant Conti Trousers",
+    "category": "workwear",
+    "supplier": "JAVLIN",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "7008D-D59-FA",
+    "name": "Women’s Flame Retardant & Acid Resistant Conti Jacket",
+    "category": "workwear",
+    "supplier": "JAVLIN",
+    "desc": "Women's fit, flame retardant, acid resistant, chemical/flame protection, industrial grade, durable, safety-focused.",
+    "image": ""
+  },
+  {
+    "id": "4776T-D59-FA",
+    "name": "Premium SABS Approved Flame Retardant & Acid Resistant Conti Trousers",
+    "category": "workwear",
+    "supplier": "JAVLIN",
+    "desc": "SABS approved, flame retardant, acid resistant, chemical/flame protection, premium grade, durable, industrial safety.",
+    "image": ""
+  },
+  {
+    "id": "4775T-D59-FA",
+    "name": "Premium SABS Approved Flame Retardant & Acid Resistant Conti Jacket",
+    "category": "workwear",
+    "supplier": "JAVLIN",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "4776D-D59-FA",
+    "name": "SABS Approved Flame Retardant & Acid Resistant Conti Trousers",
+    "category": "workwear",
+    "supplier": "JAVLIN",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "4775D-D59-FA",
+    "name": "SABS Approved Flame Retardant & Acid Resistant Conti Jacket",
+    "category": "workwear",
+    "supplier": "JAVLIN",
+    "desc": "SABS approved, flame retardant, acid resistant, chemical/fire protection, high-risk environment grade, durable, ergonomic (ease of movement).",
+    "image": ""
+  },
+  {
+    "id": "6992-PV-AR",
+    "name": "Women’s Polyviscose Acid Resistant Trousers",
+    "category": "workwear",
+    "supplier": "JAVLIN",
+    "desc": "Women's fit, polyviscose blend, acid resistant, chemical protection, industrial grade, durable, comfortable.",
+    "image": ""
+  },
+  {
+    "id": "6993-PV-AR",
+    "name": "Women’s Polyviscose Acid Resistant Conti Jacket",
+    "category": "workwear",
+    "supplier": "JAVLIN",
+    "desc": "Women's fit, polyviscose blend, acid resistant, chemical protection, industrial sector grade, safety-focused, comfortable.",
+    "image": ""
+  },
+  {
+    "id": "5079-D59-FR",
+    "name": "D59 Flame Retardant Conti Trousers SABS specification",
+    "category": "workwear",
+    "supplier": "JAVLIN",
+    "desc": "SABS spec, D59 fabric, flame retardant, fire resistant protection, lower-body safety, comfortable.",
+    "image": ""
+  },
+  {
+    "id": "5078-D59-FR",
+    "name": "D59 Flame Retardant Conti Jacket SABS Specification",
+    "category": "workwear",
+    "supplier": "JAVLIN",
+    "desc": "SABS spec, D59 fabric, flame retardant, fire-resistant protection, professional hazardous environment grade, durable.",
+    "image": ""
+  },
+  {
+    "id": "3390-PC-AR",
+    "name": "Acid Resistant Dust Coat",
+    "category": "workwear",
+    "supplier": "JAVLIN",
+    "desc": "Acid resistant, chemical splash protection, industrial grade, dust/dirt defense, clothing protection, safety-focused.",
+    "image": ""
+  },
+  {
+    "id": "7859-D59",
+    "name": "SABS Approved Flame Retardant & Acid Resistant Hat",
+    "category": "workwear",
+    "supplier": "JAVLIN",
+    "desc": "SABS approved, flame retardant, acid resistant, chemical/flame protection, hazardous environment grade, safety-focused, comfortable.",
+    "image": ""
+  },
+  {
+    "id": "6289-PO",
+    "name": "Security Parka Jacket",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Security grade, thermal insulation (warmth), weather protection, outdoor optimized, durable, comfortable.",
+    "image": ""
+  },
+  {
+    "id": "9139.0",
+    "name": "Combat Leather Boot",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Combat grade, genuine leather, extreme condition protection, heavy-duty support, durable, comfortable.",
+    "image": ""
+  },
+  {
+    "id": "9143.0",
+    "name": "Combat Canvas Boot",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Combat grade, canvas material, lightweight, heavy-duty utility, durable, comfort-focused.",
+    "image": ""
+  },
+  {
+    "id": "9146.0",
+    "name": "Uniform Shoe",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Professional style, corporate/formal grade, all-day comfort, polished appearance, durable, uniform-standard.",
+    "image": ""
+  },
+  {
+    "id": "9122-AC",
+    "name": "Long Sleeve V Neck Jersey",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "V-neck design, long sleeve, thermal insulation (warmth), flexible fabric, cold-weather optimized, versatile, comfortable.",
+    "image": ""
+  },
+  {
+    "id": "9120-AC",
+    "name": "Long Sleeve V Neck Combat Jersey",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Combat grade, V-neck design, tactical wear, durable fabric, ergonomic (ease of movement), flexible, functional.",
+    "image": ""
+  },
+  {
+    "id": "9002-PC",
+    "name": "Mock Combat Trousers",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Tactical wear, mock combat pockets, reinforced construction, functional design, flexible, durable, practical.",
+    "image": ""
+  },
+  {
+    "id": "6329-PC",
+    "name": "Short Sleeve Pilot Shirt",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Pilot style, short sleeve, breathable cotton, professional/casual versatility, lightweight, aviation grade, practical.",
+    "image": ""
+  },
+  {
+    "id": "9107-PC",
+    "name": "Long Sleeve Lounge Shirt",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Lounge style, long sleeve, quality fabric, relaxed fit, everyday workwear, comfortable, practical.",
+    "image": ""
+  },
+  {
+    "id": "9100-PC",
+    "name": "Short Sleeve Combat Shirt",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Combat grade, short sleeve, tactical/outdoor utility, high-capacity storage (multiple pockets), breathable yet tough fabric, durable, functional.",
+    "image": ""
+  },
+  {
+    "id": "9123-AC",
+    "name": "Sleeveless V Neck Jersey",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "V-neck design, sleeveless, breathable fabric, warm-weather optimized, versatile layering, relaxed fit, stylish.",
+    "image": ""
+  },
+  {
+    "id": "9137.0",
+    "name": "PU Leather Look Belt",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "9106-PC",
+    "name": "Short Sleeve Lounge Shirt",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Lounge style, short sleeve, soft cotton, breathable fit, casual/home utility, relaxed style, comfortable.",
+    "image": ""
+  },
+  {
+    "id": "9160.0",
+    "name": "Beret",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "5020.0",
+    "name": "Knitted Balaclava",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Knitted construction, full face/neck coverage, thermal insulation (warmth), harsh weather protection, soft yet durable fabric, cold-environment grade.",
+    "image": ""
+  },
+  {
+    "id": "9155.0",
+    "name": "Armed Response Cap",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Armed response grade, professional security uniform, authoritative style, durable construction, functional accessory.",
+    "image": ""
+  },
+  {
+    "id": "9134.0",
+    "name": "Combat Web Belt",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Combat grade, adjustable fit, heavy-duty gear support, military/tactical utility, outdoor optimized, tough construction.",
+    "image": ""
+  },
+  {
+    "id": "5019.0",
+    "name": "Knitted Beanie",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Knitted construction, thermal insulation (warmth), soft/stretchy material, snug fit, outdoor optimized, cold-weather grade.",
+    "image": ""
+  },
+  {
+    "id": "9136.0",
+    "name": "Nylon Web Belt",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Nylon construction, adjustable fit, lightweight/high-strength, everyday utility, workwear-ready, comfortable, practical.",
+    "image": ""
+  },
+  {
+    "id": "5190-PC",
+    "name": "Two Tone Polycotton Utility Jacket SABS Specification",
+    "category": "headwear",
+    "supplier": "JAVLIN",
+    "desc": "Industrial grade, two-tone design, polycotton fabric, high-capacity storage, occupational safety, durable, organized utility.",
+    "image": ""
+  },
+  {
+    "id": "5191-PC",
+    "name": "Two Tone Polycotton Utility Cargos SABS Specification",
+    "category": "general",
+    "supplier": "JAVLIN",
+    "desc": "Utilitarian/industrial grade, two-tone design, polycotton fabric, multi-pocket tool storage, safety-conscious design, durable, functional.",
+    "image": ""
+  },
+  {
+    "id": "5143-PC",
+    "name": "Service Line Chinos",
+    "category": "general",
+    "supplier": "JAVLIN",
+    "desc": "Service line grade, high-quality fabric, professional/casual versatility, smart-casual aesthetic, durable (lasting wear), comfortable.",
+    "image": ""
+  },
+  {
+    "id": "5932-PC",
+    "name": "Polycotton Utility Cargos SABS Specification",
+    "category": "general",
+    "supplier": "JAVLIN",
+    "desc": "SABS specified, industrial grade, polycotton fabric, high-standard protection, outdoor optimized, flexible, durable.",
+    "image": ""
+  },
+  {
+    "id": "5332-CVC",
+    "name": "Racing Shirt",
+    "category": "general",
+    "supplier": "JAVLIN",
+    "desc": "Racing style, performance-driven design, lightweight/breathable fabric, motorsports uniform, bold/sporty aesthetic, comfortable.",
+    "image": ""
+  },
+  {
+    "id": "9904.0",
+    "name": "Rechargeable Spotlight Torch",
+    "category": "general",
+    "supplier": "JAVLIN",
+    "desc": "High-intensity illumination, rechargeable battery, emergency/outdoor utility, long-lasting power, reliable performance, portable spotlight.",
+    "image": ""
+  },
+  {
+    "id": "9138.0",
+    "name": "Javlin 40mm Genuine Leather Belt",
+    "category": "general",
+    "supplier": "JAVLIN",
+    "desc": "Genuine leather construction, 40mm width, professional/casual versatility, high-durability (daily use), sleek finish, comfortable.",
+    "image": ""
+  },
+  {
+    "id": "9908.0",
+    "name": "Flashlight Torch",
+    "category": "general",
+    "supplier": "JAVLIN",
+    "desc": "High-intensity illumination, compact/portable design, durable construction, emergency/outdoor utility, work-ready, reliable low-light performance.",
+    "image": ""
+  },
+  {
+    "id": "9164HP",
+    "name": "Handcuffs & Pouch",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Law enforcement grade, high-durability handcuffs, dedicated storage pouch, rapid deployment design, security professional utility, reliable performance.",
+    "image": ""
+  },
+  {
+    "id": "9164.0",
+    "name": "Handcuffs",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Law enforcement grade, heavy-duty construction, high-security restraint, operational reliability, long-lasting performance, professional security utility.",
+    "image": ""
+  },
+  {
+    "id": "9175.0",
+    "name": "Thermal Performance Socks Knee High",
+    "category": "general",
+    "supplier": "JAVLIN",
+    "desc": "Thermal grade, knee-high coverage, insulating material, moisture management (dry), cold-weather performance, outdoor/industrial utility.",
+    "image": ""
+  },
+  {
+    "id": "9161A",
+    "name": "70cm Straight Baton",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Security grade, 70cm reach, high-durability construction, tactical control/authority, safety-optimized, professional security utility.",
+    "image": ""
+  },
+  {
+    "id": "9174.0",
+    "name": "Flame Retardant Work Socks Mid Calf",
+    "category": "general",
+    "supplier": "JAVLIN",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "9162L",
+    "name": "60cm T – Baton",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Security/law enforcement grade, 60cm length, T-handle design, optimal grip/maneuverability, tactical control, professional utility.",
+    "image": ""
+  },
+  {
+    "id": "9187.0",
+    "name": "A4 Access Control Book",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Security grade, A4 format, entry/exit documentation, organized access management, facility oversight, essential logbook.",
+    "image": ""
+  },
+  {
+    "id": "9186.0",
+    "name": "A4 OB Occurrence Book",
+    "category": "headwear",
+    "supplier": "JAVLIN",
+    "desc": "Industrial grade, two-tone design, polycotton fabric, high-capacity storage, occupational safety, durable, organized utility.",
+    "image": ""
+  },
+  {
+    "id": "9161.0",
+    "name": "50cm Straight Baton",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Security grade, 50cm reach, lightweight/durable construction, defensive utility, crowd control optimized, essential security tool.",
+    "image": ""
+  },
+  {
+    "id": "9167.0",
+    "name": "Printed Security Epaulettes",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Professional identification, printed security branding, uniform-ready, durable construction, high visibility, functional personnel accessory.",
+    "image": ""
+  },
+  {
+    "id": "9168.0",
+    "name": "Plain Epaulettes",
+    "category": "general",
+    "supplier": "JAVLIN",
+    "desc": "Professional aesthetic, blank/customizable surface, rank/role identification, practical uniform accessory, simple yet stylish design, functional utility.",
+    "image": ""
+  },
+  {
+    "id": "9150.0",
+    "name": "Uniform Tie",
+    "category": "general",
+    "supplier": "JAVLIN",
+    "desc": "Professional aesthetic, durable shape-retention fabric, corporate/uniform utility, elegant design, neat appearance, functional attire accessory.",
+    "image": ""
+  },
+  {
+    "id": "9197.0",
+    "name": "Javlin Anti-Static Performance Socks",
+    "category": "general",
+    "supplier": "JAVLIN",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "9173.0",
+    "name": "Performance Work Socks Ankle",
+    "category": "general",
+    "supplier": "JAVLIN",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "9153.0",
+    "name": "Performance Work Socks Mid Calf",
+    "category": "general",
+    "supplier": "JAVLIN",
+    "desc": "",
+    "image": ""
+  },
+  {
+    "id": "9149FR",
+    "name": "Freezer Socks",
+    "category": "general",
+    "supplier": "JAVLIN",
+    "desc": "Freezer grade, thermal insulation, freezing-temperature performance, cold-storage utility, enhanced foot comfort, specialized worker protection.",
+    "image": ""
+  },
+  {
+    "id": "9181.0",
+    "name": "Lanyard",
+    "category": "ppe",
+    "supplier": "JAVLIN",
+    "desc": "Security/workplace grade, high-durability construction, whistle/ID compatibility, rapid-access design, comfortable all-day wear, practical utility.",
+    "image": ""
+  },
+  {
+    "id": "9149.0",
+    "name": "Cushion Sole Socks",
+    "category": "general",
+    "supplier": "JAVLIN",
+    "desc": "Supportive cushioning, high-comfort design, durable construction, all-day wearability, versatile work/casual utility, soft fabric performance.",
+    "image": ""
+  },
+  {
+    "id": "9420.0",
+    "name": "Anklet Uniform Socks",
+    "category": "general",
+    "supplier": "JAVLIN",
+    "desc": "Professional/casual grade, anklet length, breathable fabric, high-durability construction, all-day comfort, versatile uniform utility.",
+    "image": ""
+  },
+  {
+    "id": "9166W",
+    "name": "Whistle",
+    "category": "security",
+    "supplier": "JAVLIN",
+    "desc": "Security grade, high-decibel output, clear communication/safety utility, outdoor and workplace compatible, durable construction, essential alert tool.",
+    "image": ""
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Remix:  ALFS - Achilles Labour-Force Services",
+  "description": "Premium Zambian workwear, safety PPE \u0026 labour solutions. Standing on Integrity and Quality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

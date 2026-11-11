@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <script>
+      (function() {
+        try {
+          var _origFetch = window.fetch ? window.fetch.bind(window) : null;
+          var _customFetch = _origFetch;
+          Object.defineProperty(window, 'fetch', {
+            get: function() {
+              return _customFetch;
+            },
+            set: function(val) {
+              _customFetch = val;
+            },
+            configurable: true,
+            enumerable: true
+          });
+        } catch (err) {
+          try {
+            var proto = window.Window ? window.Window.prototype : Object.getPrototypeOf(window);
+            if (proto) {
+              var _origProtoFetch = window.fetch ? window.fetch.bind(window) : null;
+              var _customProtoFetch = _origProtoFetch;
+              Object.defineProperty(proto, 'fetch', {
+                get: function() {
+                  return _customProtoFetch;
+                },
+                set: function(val) {
+                  _customProtoFetch = val;
+                },
+                configurable: true,
+                enumerable: true
+              });
+            }
+          } catch (e) {}
+        }
+        window.addEventListener('error', function(e) {
+          if (e && e.filename && e.filename.indexOf('chrome-extension://') !== -1) {
+            if (e.preventDefault) e.preventDefault();
+            if (e.stopPropagation) e.stopPropagation();
+            return true;
+          }
+        }, true);
+      })();
+    </script>
+    <script type="text/javascript">
+      // Single Page Apps for GitHub Pages
+      (function(l) {
+        if (l.search[1] === '/' ) {
+          var decoded = l.search.slice(1).split('&').map(function(s) { 
+            return s.replace(/~and~/g, '&')
+          }).join('?');
+          window.history.replaceState(null, null,
+              l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
+      }(window.location));
+    </script>
+    <title>ALFS Limited — Achilles Labour Force Services | Zambia</title>
+    <meta name="description" content="Zambia's professional standard for workwear, PPE, safety equipment and labour procurement. SABS certified. Lusaka & Chingola." />
+    <meta name="author" content="Mupenda Chama" />
+    <meta name="creator" content="Mupenda Chama" />
+    <meta name="theme-color" content="#C41E3A" />
+    <link rel="canonical" href="https://alfslimited.com/" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://alfslimited.com/" />
+    <meta property="og:title" content="ALFS Limited — Built for Site. Equipped for Excellence." />
+    <meta property="og:description" content="Zambia's professional standard for workwear, PPE and safety equipment. SABS certified." />
+    <meta property="og:image" content="https://images.unsplash.com/photo-1541888946425-d81bb19482bf?q=80&w=1200&auto=format&fit=crop" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="ALFS Limited — Built for Site. Equipped for Excellence." />
+    <meta name="twitter:description" content="Zambia's professional standard for workwear, PPE and safety equipment. SABS certified." />
+    <meta name="twitter:image" content="https://images.unsplash.com/photo-1541888946425-d81bb19482bf?q=80&w=1200&auto=format&fit=crop" />
+
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FL6YHLJVLB"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-FL6YHLJVLB');
+    </script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="icon" href="data:," />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
